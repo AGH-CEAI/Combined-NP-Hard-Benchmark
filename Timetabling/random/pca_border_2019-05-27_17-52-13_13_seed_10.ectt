@@ -1,0 +1,66 @@
+Name: pca_border_2019-05-27_17-52-13_13_seed_10
+Courses: 9
+Rooms: 2
+Days: 5
+Periods_per_day: 5
+Curricula: 6
+Min_Max_Daily_Lectures: 0 5
+UnavailabilityConstraints: 28
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 4 2 115 0
+Course001 t01 2 1 123 0
+Course002 t02 2 1 113 0
+Course003 t00 3 1 112 0
+Course004 t01 2 1 89 0
+Course005 t02 4 1 72 0
+Course006 t00 2 1 123 0
+Course007 t01 3 3 127 0
+Course008 t02 1 1 134 0
+
+ROOMS:
+R01 142 0
+R02 160 0
+
+CURRICULA:
+Curr001 3 Course001 Course005 Course008
+Curr002 3 Course000 Course006 Course007
+Curr003 3 Course001 Course005 Course008
+Curr004 3 Course003 Course004 Course005
+Curr005 3 Course000 Course001 Course002
+Curr006 4 Course003 Course006 Course007 Course008
+
+UNAVAILABILITY_CONSTRAINTS:
+Course000 2 4
+Course003 0 3
+Course006 1 3
+Course006 2 2
+Course001 0 1
+Course008 3 2
+Course004 4 1
+Course008 0 3
+Course007 4 4
+Course003 3 2
+Course008 0 0
+Course000 2 2
+Course007 0 4
+Course003 1 2
+Course000 0 3
+Course004 1 4
+Course008 0 4
+Course007 4 2
+Course007 3 3
+Course000 3 1
+Course005 0 4
+Course000 0 0
+Course003 0 4
+Course002 4 0
+Course001 1 0
+Course004 0 4
+Course000 1 3
+Course004 0 2
+
+ROOM_CONSTRAINTS:
+
+END.

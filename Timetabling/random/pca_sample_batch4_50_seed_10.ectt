@@ -1,0 +1,106 @@
+Name: pca_sample_batch4_50_seed_10
+Courses: 43
+Rooms: 3
+Days: 5
+Periods_per_day: 6
+Curricula: 18
+Min_Max_Daily_Lectures: 0 6
+UnavailabilityConstraints: 21
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 3 1 53 0
+Course001 t01 6 5 44 0
+Course002 t02 5 3 67 0
+Course003 t03 3 3 78 0
+Course004 t04 6 1 74 0
+Course005 t05 3 3 66 0
+Course006 t06 2 2 62 0
+Course007 t07 5 1 47 0
+Course008 t08 5 1 63 0
+Course009 t09 2 2 66 0
+Course010 t10 3 1 82 0
+Course011 t11 5 2 43 0
+Course012 t12 4 3 85 0
+Course013 t13 1 1 41 0
+Course014 t14 1 1 49 0
+Course015 t15 4 4 44 0
+Course016 t16 2 1 76 0
+Course017 t17 3 1 79 0
+Course018 t18 5 4 46 0
+Course019 t19 4 4 58 0
+Course020 t20 4 1 47 0
+Course021 t21 1 1 76 0
+Course022 t22 1 1 71 0
+Course023 t23 5 2 52 0
+Course024 t24 1 1 44 0
+Course025 t25 5 4 77 0
+Course026 t26 1 1 77 0
+Course027 t27 6 1 54 0
+Course028 t28 4 4 59 0
+Course029 t29 2 1 69 0
+Course030 t30 5 1 81 0
+Course031 t31 1 1 81 0
+Course032 t32 3 1 48 0
+Course033 t33 1 1 79 0
+Course034 t34 5 2 58 0
+Course035 t00 4 1 79 0
+Course036 t00 2 1 62 0
+Course037 t00 6 1 70 0
+Course038 t01 2 1 48 0
+Course039 t01 6 1 79 0
+Course040 t01 7 3 62 0
+Course041 t02 1 1 54 0
+Course042 t02 3 1 45 0
+
+ROOMS:
+R01 86 0
+R02 87 0
+R03 101 0
+
+CURRICULA:
+Curr001 5 Course002 Course011 Course021 Course023 Course032
+Curr002 3 Course013 Course022 Course032
+Curr003 5 Course004 Course015 Course027 Course034 Course040
+Curr004 1 Course033
+Curr005 6 Course002 Course010 Course025 Course028 Course033 Course041
+Curr006 2 Course010 Course030
+Curr007 5 Course005 Course016 Course022 Course030 Course040
+Curr008 3 Course020 Course040 Course042
+Curr009 1 Course035
+Curr010 2 Course012 Course032
+Curr011 2 Course004 Course017
+Curr012 2 Course025 Course030
+Curr013 5 Course009 Course014 Course015 Course036 Course042
+Curr014 1 Course022
+Curr015 4 Course015 Course017 Course021 Course031
+Curr016 6 Course006 Course010 Course018 Course023 Course032 Course038
+Curr017 4 Course006 Course028 Course041 Course042
+Curr018 6 Course000 Course007 Course008 Course030 Course037 Course040
+
+UNAVAILABILITY_CONSTRAINTS:
+Course036 2 3
+Course016 1 5
+Course000 2 0
+Course003 2 0
+Course018 1 2
+Course011 0 1
+Course030 4 3
+Course025 2 3
+Course041 0 1
+Course001 3 4
+Course042 3 3
+Course029 4 3
+Course013 1 5
+Course017 4 5
+Course038 3 4
+Course035 4 0
+Course001 3 0
+Course022 4 0
+Course017 2 2
+Course024 0 2
+Course026 0 4
+
+ROOM_CONSTRAINTS:
+
+END.

@@ -1,0 +1,3599 @@
+Name: pca_border_sparse_2019-07-17_10-26-17_87_seed_10
+Courses: 331
+Rooms: 60
+Days: 5
+Periods_per_day: 23
+Curricula: 266
+Min_Max_Daily_Lectures: 0 23
+UnavailabilityConstraints: 2921
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 18 4 388 0
+Course001 t01 4 4 394 0
+Course002 t02 2 1 84 0
+Course003 t03 14 5 163 0
+Course004 t04 3 1 425 0
+Course005 t05 16 3 125 0
+Course006 t06 6 4 110 0
+Course007 t07 10 5 86 0
+Course008 t08 15 3 129 0
+Course009 t09 3 1 62 0
+Course010 t10 5 2 116 0
+Course011 t11 16 4 415 0
+Course012 t12 2 1 308 0
+Course013 t13 19 3 408 0
+Course014 t14 3 1 335 0
+Course015 t15 5 5 203 0
+Course016 t16 13 4 493 0
+Course017 t17 12 2 120 0
+Course018 t18 8 2 395 0
+Course019 t19 7 3 502 0
+Course020 t20 16 3 461 0
+Course021 t21 16 4 216 0
+Course022 t22 21 5 227 0
+Course023 t23 16 3 70 0
+Course024 t24 6 5 607 0
+Course025 t25 19 4 367 0
+Course026 t26 1 1 189 0
+Course027 t27 1 1 182 0
+Course028 t28 19 5 277 0
+Course029 t29 7 5 468 0
+Course030 t30 21 3 470 0
+Course031 t31 17 5 518 0
+Course032 t32 8 1 97 0
+Course033 t33 9 5 240 0
+Course034 t34 1 1 342 0
+Course035 t35 10 3 189 0
+Course036 t36 16 2 514 0
+Course037 t37 12 3 529 0
+Course038 t38 4 2 287 0
+Course039 t39 7 3 54 0
+Course040 t40 13 5 177 0
+Course041 t41 4 2 500 0
+Course042 t42 13 3 137 0
+Course043 t43 15 3 197 0
+Course044 t44 21 2 291 0
+Course045 t45 18 4 154 0
+Course046 t46 17 1 194 0
+Course047 t47 14 3 302 0
+Course048 t48 15 2 216 0
+Course049 t49 1 1 60 0
+Course050 t50 7 3 398 0
+Course051 t51 5 1 488 0
+Course052 t52 4 4 277 0
+Course053 t53 9 1 105 0
+Course054 t54 11 3 519 0
+Course055 t55 7 3 499 0
+Course056 t56 4 4 437 0
+Course057 t57 18 2 267 0
+Course058 t58 21 2 234 0
+Course059 t59 14 2 474 0
+Course060 t60 4 2 394 0
+Course061 t61 15 3 340 0
+Course062 t62 20 3 544 0
+Course063 t63 13 5 523 0
+Course064 t64 11 5 479 0
+Course065 t65 12 3 46 0
+Course066 t66 13 5 390 0
+Course067 t67 7 5 597 0
+Course068 t68 1 1 108 0
+Course069 t69 20 5 235 0
+Course070 t70 11 5 392 0
+Course071 t71 4 1 571 0
+Course072 t72 7 1 499 0
+Course073 t73 13 1 270 0
+Course074 t74 6 2 431 0
+Course075 t75 18 5 573 0
+Course076 t76 12 1 262 0
+Course077 t77 12 5 376 0
+Course078 t78 4 1 562 0
+Course079 t79 8 5 328 0
+Course080 t80 17 3 607 0
+Course081 t81 2 2 411 0
+Course082 t82 3 1 325 0
+Course083 t83 15 2 109 0
+Course084 t84 12 1 514 0
+Course085 t85 4 4 362 0
+Course086 t86 12 3 312 0
+Course087 t87 5 2 216 0
+Course088 t88 7 3 567 0
+Course089 t89 16 1 287 0
+Course090 t90 18 5 58 0
+Course091 t91 15 2 153 0
+Course092 t92 18 2 582 0
+Course093 t93 16 1 499 0
+Course094 t94 12 1 328 0
+Course095 t95 14 2 539 0
+Course096 t96 6 1 65 0
+Course097 t97 9 5 368 0
+Course098 t98 19 2 205 0
+Course099 t99 12 5 461 0
+Course100 t100 15 1 578 0
+Course101 t101 7 5 331 0
+Course102 t102 13 4 324 0
+Course103 t103 6 1 532 0
+Course104 t104 8 3 150 0
+Course105 t105 7 5 437 0
+Course106 t106 9 1 402 0
+Course107 t107 14 4 595 0
+Course108 t108 5 4 488 0
+Course109 t109 11 4 398 0
+Course110 t110 9 3 32 0
+Course111 t111 12 4 431 0
+Course112 t112 12 3 466 0
+Course113 t113 18 4 345 0
+Course114 t114 10 3 231 0
+Course115 t115 2 2 252 0
+Course116 t116 6 3 228 0
+Course117 t117 10 2 428 0
+Course118 t118 8 2 603 0
+Course119 t119 10 2 606 0
+Course120 t120 13 4 170 0
+Course121 t121 9 2 125 0
+Course122 t122 16 4 583 0
+Course123 t123 7 2 355 0
+Course124 t124 11 3 270 0
+Course125 t125 3 1 47 0
+Course126 t126 6 2 279 0
+Course127 t127 21 1 143 0
+Course128 t128 10 1 110 0
+Course129 t129 4 3 247 0
+Course130 t130 10 4 217 0
+Course131 t131 12 3 504 0
+Course132 t132 20 3 553 0
+Course133 t133 13 1 480 0
+Course134 t134 18 1 103 0
+Course135 t135 6 2 265 0
+Course136 t136 2 2 443 0
+Course137 t137 19 2 534 0
+Course138 t138 6 5 469 0
+Course139 t139 5 5 260 0
+Course140 t140 20 1 439 0
+Course141 t141 17 5 106 0
+Course142 t142 20 3 425 0
+Course143 t143 7 3 366 0
+Course144 t144 4 3 59 0
+Course145 t145 3 3 484 0
+Course146 t146 9 1 173 0
+Course147 t147 10 2 352 0
+Course148 t148 15 3 391 0
+Course149 t149 2 1 274 0
+Course150 t150 12 3 223 0
+Course151 t151 7 2 204 0
+Course152 t152 2 1 465 0
+Course153 t153 9 5 247 0
+Course154 t154 12 1 113 0
+Course155 t155 13 4 71 0
+Course156 t156 15 5 36 0
+Course157 t157 16 3 308 0
+Course158 t158 12 1 190 0
+Course159 t159 1 1 352 0
+Course160 t160 9 5 216 0
+Course161 t161 1 1 466 0
+Course162 t162 7 4 83 0
+Course163 t163 3 3 196 0
+Course164 t164 17 1 93 0
+Course165 t165 20 3 443 0
+Course166 t166 11 1 375 0
+Course167 t167 13 3 104 0
+Course168 t168 21 4 513 0
+Course169 t169 12 1 343 0
+Course170 t170 17 5 390 0
+Course171 t171 18 2 151 0
+Course172 t172 15 2 476 0
+Course173 t173 12 1 593 0
+Course174 t174 11 3 582 0
+Course175 t175 6 2 585 0
+Course176 t176 7 3 360 0
+Course177 t177 6 5 350 0
+Course178 t178 11 3 60 0
+Course179 t179 15 4 35 0
+Course180 t180 3 3 279 0
+Course181 t181 13 2 271 0
+Course182 t182 9 2 471 0
+Course183 t183 15 1 135 0
+Course184 t184 19 5 64 0
+Course185 t185 14 2 97 0
+Course186 t186 8 3 180 0
+Course187 t187 16 1 387 0
+Course188 t188 4 4 378 0
+Course189 t189 8 3 34 0
+Course190 t190 10 2 235 0
+Course191 t191 5 2 246 0
+Course192 t192 20 3 165 0
+Course193 t193 8 3 530 0
+Course194 t194 8 5 193 0
+Course195 t195 14 3 79 0
+Course196 t196 3 3 463 0
+Course197 t197 6 2 113 0
+Course198 t198 14 1 310 0
+Course199 t199 6 2 186 0
+Course200 t200 10 4 199 0
+Course201 t201 2 1 114 0
+Course202 t202 11 4 574 0
+Course203 t203 14 4 292 0
+Course204 t204 21 2 47 0
+Course205 t205 14 2 291 0
+Course206 t206 16 4 595 0
+Course207 t207 21 1 588 0
+Course208 t208 18 4 322 0
+Course209 t209 21 5 492 0
+Course210 t210 3 2 507 0
+Course211 t211 1 1 33 0
+Course212 t212 15 2 133 0
+Course213 t213 9 5 505 0
+Course214 t214 16 2 230 0
+Course215 t215 11 1 123 0
+Course216 t216 11 4 242 0
+Course217 t217 12 2 361 0
+Course218 t218 3 2 471 0
+Course219 t219 1 1 249 0
+Course220 t220 1 1 131 0
+Course221 t221 1 1 91 0
+Course222 t222 1 1 534 0
+Course223 t223 1 1 326 0
+Course224 t224 1 1 101 0
+Course225 t225 1 1 171 0
+Course226 t226 1 1 214 0
+Course227 t227 1 1 360 0
+Course228 t228 1 1 545 0
+Course229 t229 1 1 473 0
+Course230 t230 1 1 102 0
+Course231 t231 1 1 185 0
+Course232 t232 1 1 115 0
+Course233 t233 1 1 409 0
+Course234 t234 1 1 593 0
+Course235 t235 1 1 323 0
+Course236 t236 1 1 278 0
+Course237 t237 1 1 180 0
+Course238 t238 1 1 445 0
+Course239 t239 1 1 443 0
+Course240 t240 1 1 476 0
+Course241 t241 1 1 117 0
+Course242 t242 1 1 46 0
+Course243 t243 1 1 367 0
+Course244 t244 1 1 436 0
+Course245 t245 1 1 529 0
+Course246 t246 1 1 292 0
+Course247 t247 1 1 161 0
+Course248 t248 1 1 421 0
+Course249 t249 1 1 576 0
+Course250 t250 1 1 281 0
+Course251 t251 1 1 368 0
+Course252 t252 1 1 214 0
+Course253 t253 1 1 327 0
+Course254 t254 1 1 94 0
+Course255 t255 1 1 529 0
+Course256 t256 1 1 292 0
+Course257 t257 1 1 427 0
+Course258 t258 1 1 375 0
+Course259 t259 1 1 344 0
+Course260 t260 1 1 345 0
+Course261 t261 1 1 191 0
+Course262 t262 1 1 49 0
+Course263 t263 1 1 239 0
+Course264 t264 1 1 292 0
+Course265 t265 1 1 248 0
+Course266 t266 1 1 346 0
+Course267 t267 1 1 309 0
+Course268 t268 1 1 257 0
+Course269 t269 1 1 391 0
+Course270 t270 1 1 150 0
+Course271 t00 1 1 596 0
+Course272 t01 1 1 591 0
+Course273 t02 1 1 59 0
+Course274 t03 1 1 595 0
+Course275 t04 1 1 600 0
+Course276 t05 1 1 34 0
+Course277 t06 1 1 526 0
+Course278 t07 1 1 164 0
+Course279 t08 1 1 206 0
+Course280 t09 1 1 278 0
+Course281 t10 1 1 507 0
+Course282 t11 1 1 429 0
+Course283 t12 1 1 523 0
+Course284 t13 1 1 422 0
+Course285 t14 1 1 529 0
+Course286 t15 1 1 226 0
+Course287 t16 1 1 268 0
+Course288 t17 1 1 227 0
+Course289 t18 1 1 412 0
+Course290 t19 1 1 289 0
+Course291 t20 1 1 99 0
+Course292 t21 1 1 496 0
+Course293 t22 1 1 179 0
+Course294 t23 1 1 489 0
+Course295 t24 1 1 94 0
+Course296 t25 1 1 410 0
+Course297 t26 1 1 528 0
+Course298 t27 1 1 178 0
+Course299 t28 1 1 500 0
+Course300 t29 1 1 326 0
+Course301 t30 1 1 358 0
+Course302 t31 1 1 478 0
+Course303 t32 1 1 507 0
+Course304 t33 1 1 112 0
+Course305 t34 1 1 580 0
+Course306 t35 1 1 219 0
+Course307 t36 1 1 172 0
+Course308 t37 1 1 609 0
+Course309 t38 1 1 284 0
+Course310 t39 1 1 579 0
+Course311 t40 1 1 451 0
+Course312 t41 1 1 285 0
+Course313 t42 1 1 236 0
+Course314 t43 1 1 495 0
+Course315 t44 1 1 58 0
+Course316 t45 1 1 567 0
+Course317 t46 1 1 212 0
+Course318 t47 1 1 53 0
+Course319 t48 1 1 478 0
+Course320 t49 1 1 596 0
+Course321 t50 1 1 392 0
+Course322 t51 1 1 537 0
+Course323 t52 1 1 167 0
+Course324 t53 1 1 113 0
+Course325 t54 1 1 342 0
+Course326 t55 1 1 244 0
+Course327 t56 1 1 303 0
+Course328 t57 1 1 197 0
+Course329 t58 1 1 61 0
+Course330 t59 1 1 471 0
+
+ROOMS:
+R01 67 0
+R02 83 0
+R03 89 0
+R04 108 0
+R05 147 0
+R06 148 0
+R07 165 0
+R08 180 0
+R09 181 0
+R10 184 0
+R11 185 0
+R12 196 0
+R13 202 0
+R14 215 0
+R15 218 0
+R16 224 0
+R17 238 0
+R18 256 0
+R19 267 0
+R20 268 0
+R21 295 0
+R22 302 0
+R23 308 0
+R24 322 0
+R25 328 0
+R26 329 0
+R27 334 0
+R28 335 0
+R29 337 0
+R30 359 0
+R31 363 0
+R32 371 0
+R33 390 0
+R34 391 0
+R35 396 0
+R36 400 0
+R37 406 0
+R38 410 0
+R39 415 0
+R40 418 0
+R41 420 0
+R42 429 0
+R43 464 0
+R44 482 0
+R45 483 0
+R46 496 0
+R47 502 0
+R48 508 0
+R49 516 0
+R50 538 0
+R51 543 0
+R52 550 0
+R53 562 0
+R54 578 0
+R55 591 0
+R56 600 0
+R57 605 0
+R58 606 0
+R59 612 0
+R60 618 0
+
+CURRICULA:
+Curr001 3 Course013 Course098 Course210
+Curr002 4 Course181 Course185 Course200 Course207
+Curr003 3 Course120 Course222 Course311
+Curr004 5 Course016 Course018 Course118 Course203 Course238
+Curr005 3 Course036 Course148 Course185
+Curr006 3 Course183 Course208 Course267
+Curr007 5 Course072 Course138 Course165 Course239 Course297
+Curr008 4 Course049 Course117 Course145 Course289
+Curr009 3 Course019 Course121 Course151
+Curr010 4 Course141 Course273 Course275 Course322
+Curr011 2 Course147 Course281
+Curr012 5 Course005 Course059 Course222 Course223 Course323
+Curr013 2 Course103 Course199
+Curr014 3 Course064 Course108 Course132
+Curr015 3 Course043 Course247 Course304
+Curr016 4 Course021 Course024 Course203 Course239
+Curr017 3 Course080 Course120 Course302
+Curr018 4 Course012 Course019 Course144 Course238
+Curr019 5 Course097 Course249 Course258 Course294 Course328
+Curr020 4 Course087 Course229 Course275 Course276
+Curr021 6 Course025 Course098 Course110 Course141 Course217 Course301
+Curr022 6 Course064 Course167 Course181 Course254 Course312 Course314
+Curr023 3 Course064 Course106 Course273
+Curr024 6 Course069 Course116 Course249 Course298 Course315 Course316
+Curr025 5 Course014 Course081 Course099 Course256 Course278
+Curr026 6 Course022 Course055 Course068 Course078 Course131 Course152
+Curr027 2 Course038 Course222
+Curr028 4 Course043 Course102 Course256 Course324
+Curr029 2 Course154 Course307
+Curr030 4 Course003 Course050 Course188 Course262
+Curr031 6 Course024 Course068 Course220 Course233 Course246 Course269
+Curr032 6 Course048 Course072 Course133 Course207 Course208 Course232
+Curr033 2 Course064 Course106
+Curr034 5 Course003 Course150 Course202 Course265 Course299
+Curr035 2 Course014 Course288
+Curr036 3 Course054 Course190 Course224
+Curr037 4 Course120 Course126 Course273 Course320
+Curr038 2 Course019 Course182
+Curr039 5 Course007 Course014 Course079 Course234 Course278
+Curr040 3 Course054 Course199 Course311
+Curr041 6 Course004 Course228 Course261 Course274 Course289 Course325
+Curr042 6 Course065 Course095 Course198 Course266 Course306 Course320
+Curr043 2 Course042 Course283
+Curr044 4 Course026 Course208 Course263 Course265
+Curr045 6 Course007 Course080 Course149 Course190 Course270 Course273
+Curr046 5 Course158 Course169 Course179 Course206 Course268
+Curr047 2 Course005 Course176
+Curr048 4 Course012 Course049 Course177 Course222
+Curr049 6 Course036 Course150 Course238 Course262 Course272 Course322
+Curr050 2 Course137 Course149
+Curr051 3 Course017 Course153 Course315
+Curr052 3 Course136 Course271 Course325
+Curr053 3 Course041 Course207 Course244
+Curr054 3 Course032 Course204 Course285
+Curr055 3 Course078 Course195 Course268
+Curr056 5 Course017 Course050 Course076 Course308 Course310
+Curr057 4 Course072 Course121 Course198 Course233
+Curr058 4 Course079 Course198 Course255 Course323
+Curr059 4 Course012 Course238 Course271 Course272
+Curr060 5 Course062 Course075 Course165 Course275 Course314
+Curr061 3 Course205 Course305 Course310
+Curr062 3 Course184 Course192 Course246
+Curr063 5 Course052 Course072 Course120 Course283 Course327
+Curr064 3 Course001 Course024 Course152
+Curr065 5 Course044 Course103 Course135 Course249 Course283
+Curr066 6 Course052 Course086 Course140 Course180 Course184 Course288
+Curr067 5 Course082 Course098 Course228 Course234 Course252
+Curr068 5 Course015 Course064 Course117 Course135 Course183
+Curr069 3 Course078 Course094 Course224
+Curr070 3 Course042 Course074 Course103
+Curr071 3 Course039 Course069 Course104
+Curr072 5 Course008 Course057 Course067 Course187 Course228
+Curr073 6 Course018 Course062 Course145 Course185 Course277 Course307
+Curr074 6 Course005 Course130 Course131 Course179 Course234 Course315
+Curr075 6 Course033 Course058 Course087 Course246 Course273 Course303
+Curr076 6 Course038 Course043 Course092 Course213 Course277 Course305
+Curr077 2 Course068 Course320
+Curr078 5 Course025 Course091 Course103 Course145 Course290
+Curr079 2 Course085 Course293
+Curr080 6 Course037 Course085 Course179 Course216 Course217 Course284
+Curr081 5 Course035 Course180 Course256 Course290 Course327
+Curr082 3 Course050 Course052 Course128
+Curr083 4 Course134 Course187 Course209 Course292
+Curr084 6 Course010 Course033 Course039 Course133 Course143 Course292
+Curr085 2 Course035 Course160
+Curr086 6 Course005 Course036 Course049 Course063 Course268 Course280
+Curr087 5 Course041 Course122 Course138 Course277 Course279
+Curr088 5 Course016 Course192 Course194 Course280 Course314
+Curr089 4 Course020 Course026 Course048 Course136
+Curr090 5 Course042 Course080 Course172 Course197 Course239
+Curr091 4 Course019 Course030 Course034 Course151
+Curr092 4 Course005 Course210 Course248 Course296
+Curr093 6 Course030 Course139 Course240 Course257 Course264 Course293
+Curr094 3 Course102 Course147 Course294
+Curr095 4 Course129 Course181 Course226 Course230
+Curr096 2 Course277 Course286
+Curr097 4 Course032 Course208 Course254 Course278
+Curr098 5 Course062 Course077 Course133 Course135 Course205
+Curr099 3 Course011 Course084 Course257
+Curr100 3 Course041 Course123 Course163
+Curr101 5 Course005 Course049 Course095 Course124 Course137
+Curr102 2 Course250 Course268
+Curr103 4 Course068 Course148 Course258 Course291
+Curr104 4 Course031 Course067 Course090 Course204
+Curr105 5 Course024 Course081 Course087 Course167 Course234
+Curr106 5 Course089 Course166 Course258 Course296 Course325
+Curr107 2 Course054 Course247
+Curr108 4 Course050 Course056 Course261 Course271
+Curr109 5 Course179 Course202 Course232 Course233 Course263
+Curr110 5 Course032 Course057 Course102 Course240 Course261
+Curr111 4 Course061 Course140 Course145 Course231
+Curr112 6 Course012 Course118 Course119 Course170 Course205 Course219
+Curr113 5 Course125 Course142 Course172 Course186 Course190
+Curr114 5 Course109 Course151 Course179 Course235 Course256
+Curr115 3 Course083 Course181 Course279
+Curr116 2 Course093 Course161
+Curr117 5 Course019 Course048 Course228 Course261 Course306
+Curr118 4 Course039 Course141 Course228 Course241
+Curr119 2 Course225 Course226
+Curr120 6 Course131 Course179 Course200 Course277 Course290 Course324
+Curr121 5 Course056 Course085 Course119 Course137 Course140
+Curr122 4 Course025 Course147 Course164 Course239
+Curr123 2 Course141 Course261
+Curr124 3 Course141 Course142 Course284
+Curr125 4 Course007 Course149 Course155 Course187
+Curr126 3 Course003 Course091 Course110
+Curr127 6 Course002 Course108 Course129 Course158 Course294 Course322
+Curr128 4 Course120 Course150 Course161 Course275
+Curr129 5 Course059 Course185 Course197 Course243 Course269
+Curr130 2 Course101 Course168
+Curr131 5 Course109 Course153 Course232 Course253 Course317
+Curr132 2 Course099 Course253
+Curr133 5 Course005 Course036 Course223 Course230 Course261
+Curr134 5 Course008 Course087 Course256 Course282 Course325
+Curr135 5 Course033 Course049 Course102 Course107 Course255
+Curr136 4 Course061 Course217 Course257 Course323
+Curr137 5 Course100 Course118 Course139 Course235 Course250
+Curr138 3 Course003 Course063 Course105
+Curr139 5 Course014 Course106 Course131 Course181 Course251
+Curr140 5 Course074 Course085 Course177 Course181 Course196
+Curr141 4 Course040 Course070 Course072 Course140
+Curr142 5 Course066 Course108 Course134 Course218 Course273
+Curr143 3 Course147 Course184 Course206
+Curr144 6 Course022 Course025 Course039 Course148 Course160 Course189
+Curr145 5 Course013 Course090 Course265 Course293 Course322
+Curr146 5 Course019 Course168 Course222 Course233 Course328
+Curr147 5 Course070 Course079 Course149 Course168 Course233
+Curr148 5 Course148 Course165 Course247 Course282 Course284
+Curr149 5 Course079 Course199 Course236 Course279 Course310
+Curr150 3 Course175 Course299 Course330
+Curr151 5 Course164 Course166 Course233 Course297 Course307
+Curr152 3 Course049 Course122 Course125
+Curr153 3 Course006 Course011 Course307
+Curr154 6 Course005 Course010 Course014 Course081 Course149 Course170
+Curr155 6 Course084 Course094 Course104 Course122 Course133 Course154
+Curr156 4 Course040 Course087 Course248 Course323
+Curr157 2 Course070 Course238
+Curr158 4 Course053 Course101 Course204 Course317
+Curr159 4 Course073 Course177 Course224 Course288
+Curr160 4 Course007 Course074 Course150 Course243
+Curr161 4 Course009 Course072 Course176 Course227
+Curr162 5 Course053 Course090 Course273 Course280 Course289
+Curr163 5 Course167 Course168 Course309 Course319 Course330
+Curr164 6 Course000 Course070 Course087 Course129 Course147 Course182
+Curr165 5 Course019 Course055 Course128 Course169 Course234
+Curr166 4 Course105 Course142 Course158 Course316
+Curr167 6 Course008 Course023 Course223 Course245 Course287 Course329
+Curr168 2 Course010 Course176
+Curr169 4 Course016 Course082 Course083 Course166
+Curr170 5 Course115 Course124 Course262 Course289 Course290
+Curr171 3 Course063 Course152 Course207
+Curr172 4 Course193 Course227 Course285 Course328
+Curr173 4 Course014 Course127 Course176 Course257
+Curr174 6 Course005 Course068 Course088 Course157 Course250 Course265
+Curr175 5 Course127 Course161 Course249 Course282 Course316
+Curr176 4 Course132 Course168 Course171 Course229
+Curr177 3 Course015 Course264 Course330
+Curr178 2 Course027 Course310
+Curr179 3 Course046 Course201 Course247
+Curr180 3 Course123 Course188 Course309
+Curr181 3 Course039 Course227 Course236
+Curr182 2 Course161 Course328
+Curr183 6 Course057 Course192 Course197 Course216 Course237 Course244
+Curr184 5 Course033 Course037 Course208 Course249 Course327
+Curr185 5 Course192 Course201 Course235 Course254 Course321
+Curr186 6 Course011 Course074 Course075 Course077 Course165 Course166
+Curr187 5 Course097 Course147 Course153 Course197 Course247
+Curr188 2 Course205 Course254
+Curr189 6 Course124 Course145 Course186 Course191 Course212 Course262
+Curr190 5 Course081 Course099 Course181 Course197 Course292
+Curr191 3 Course070 Course180 Course329
+Curr192 6 Course056 Course059 Course112 Course128 Course232 Course262
+Curr193 3 Course192 Course217 Course292
+Curr194 6 Course066 Course070 Course074 Course110 Course180 Course234
+Curr195 6 Course027 Course029 Course090 Course095 Course122 Course226
+Curr196 2 Course124 Course210
+Curr197 3 Course060 Course124 Course131
+Curr198 2 Course107 Course289
+Curr199 2 Course091 Course308
+Curr200 5 Course042 Course067 Course069 Course123 Course213
+Curr201 3 Course108 Course180 Course189
+Curr202 6 Course078 Course083 Course189 Course218 Course288 Course328
+Curr203 6 Course010 Course025 Course156 Course179 Course284 Course285
+Curr204 6 Course035 Course095 Course199 Course258 Course279 Course285
+Curr205 6 Course012 Course064 Course237 Course279 Course302 Course323
+Curr206 5 Course034 Course064 Course128 Course160 Course284
+Curr207 6 Course034 Course044 Course055 Course171 Course217 Course282
+Curr208 3 Course081 Course220 Course284
+Curr209 6 Course029 Course034 Course121 Course131 Course281 Course306
+Curr210 4 Course201 Course278 Course287 Course317
+Curr211 3 Course076 Course242 Course330
+Curr212 2 Course059 Course155
+Curr213 4 Course086 Course129 Course166 Course170
+Curr214 2 Course026 Course165
+Curr215 4 Course074 Course197 Course296 Course326
+Curr216 3 Course148 Course176 Course183
+Curr217 2 Course031 Course327
+Curr218 6 Course015 Course039 Course105 Course142 Course150 Course327
+Curr219 6 Course093 Course140 Course169 Course189 Course193 Course233
+Curr220 6 Course016 Course066 Course166 Course216 Course259 Course282
+Curr221 4 Course071 Course108 Course196 Course320
+Curr222 3 Course047 Course168 Course306
+Curr223 5 Course104 Course175 Course226 Course241 Course316
+Curr224 2 Course048 Course131
+Curr225 5 Course050 Course061 Course066 Course184 Course192
+Curr226 2 Course264 Course293
+Curr227 3 Course029 Course122 Course229
+Curr228 5 Course009 Course112 Course143 Course171 Course260
+Curr229 3 Course072 Course216 Course281
+Curr230 4 Course001 Course035 Course112 Course117
+Curr231 5 Course115 Course121 Course226 Course301 Course302
+Curr232 4 Course034 Course101 Course233 Course308
+Curr233 5 Course004 Course047 Course049 Course085 Course216
+Curr234 5 Course040 Course140 Course196 Course201 Course222
+Curr235 2 Course163 Course249
+Curr236 3 Course077 Course099 Course289
+Curr237 2 Course105 Course236
+Curr238 2 Course172 Course175
+Curr239 2 Course107 Course270
+Curr240 2 Course048 Course119
+Curr241 2 Course016 Course304
+Curr242 5 Course023 Course054 Course110 Course148 Course321
+Curr243 6 Course011 Course060 Course133 Course136 Course187 Course265
+Curr244 2 Course139 Course262
+Curr245 4 Course010 Course066 Course263 Course285
+Curr246 3 Course019 Course138 Course141
+Curr247 2 Course052 Course310
+Curr248 2 Course031 Course319
+Curr249 5 Course059 Course075 Course078 Course178 Course291
+Curr250 3 Course054 Course171 Course258
+Curr251 2 Course078 Course145
+Curr252 4 Course020 Course041 Course189 Course196
+Curr253 3 Course051 Course127 Course162
+Curr254 4 Course040 Course208 Course226 Course256
+Curr255 5 Course036 Course111 Course121 Course228 Course314
+Curr256 6 Course051 Course242 Course248 Course261 Course265 Course268
+Curr257 5 Course020 Course209 Course293 Course294 Course312
+Curr258 2 Course041 Course094
+Curr259 4 Course080 Course211 Course291 Course292
+Curr260 6 Course043 Course056 Course061 Course125 Course232 Course310
+Curr261 4 Course146 Course165 Course215 Course232
+Curr262 3 Course005 Course109 Course207
+Curr263 3 Course013 Course041 Course309
+Curr264 3 Course257 Course266 Course306
+Curr265 4 Course045 Course063 Course122 Course225
+Curr266 5 Course044 Course093 Course109 Course152 Course240
+
+UNAVAILABILITY_CONSTRAINTS:
+Course017 4 17
+Course297 3 17
+Course086 0 19
+Course015 4 6
+Course159 4 2
+Course169 4 9
+Course276 2 6
+Course186 0 4
+Course226 1 17
+Course113 0 1
+Course180 2 2
+Course294 4 11
+Course067 4 6
+Course220 0 9
+Course088 4 22
+Course049 1 7
+Course116 0 14
+Course121 2 4
+Course218 3 22
+Course326 4 4
+Course061 3 10
+Course004 4 21
+Course252 0 4
+Course133 3 21
+Course008 0 4
+Course107 1 18
+Course035 3 9
+Course120 1 6
+Course309 3 8
+Course259 4 7
+Course160 1 10
+Course005 4 1
+Course084 0 20
+Course260 0 16
+Course219 3 16
+Course034 4 3
+Course225 0 4
+Course294 0 6
+Course097 3 22
+Course074 1 13
+Course078 1 21
+Course104 2 20
+Course260 4 2
+Course277 0 1
+Course289 4 20
+Course108 1 15
+Course141 0 19
+Course217 4 2
+Course088 4 13
+Course092 0 17
+Course325 0 1
+Course177 4 7
+Course032 0 17
+Course284 1 11
+Course221 4 13
+Course289 3 3
+Course029 2 3
+Course019 3 22
+Course136 2 12
+Course022 0 5
+Course166 0 6
+Course299 1 7
+Course086 2 21
+Course161 2 10
+Course300 2 22
+Course085 0 7
+Course097 1 3
+Course115 0 5
+Course260 3 3
+Course173 1 20
+Course313 4 21
+Course323 1 14
+Course124 4 21
+Course050 1 11
+Course202 0 20
+Course137 3 16
+Course005 1 15
+Course281 3 1
+Course102 0 15
+Course093 1 2
+Course177 4 16
+Course079 4 22
+Course173 2 22
+Course180 1 10
+Course135 3 17
+Course148 4 11
+Course301 2 2
+Course175 2 11
+Course024 1 10
+Course187 3 18
+Course076 3 2
+Course132 0 4
+Course144 4 0
+Course285 3 14
+Course099 2 5
+Course152 2 12
+Course004 1 16
+Course086 4 12
+Course015 1 1
+Course300 3 21
+Course085 1 4
+Course188 4 6
+Course311 1 8
+Course062 0 15
+Course255 2 2
+Course192 2 19
+Course027 3 13
+Course170 3 11
+Course216 2 5
+Course302 4 6
+Course257 0 0
+Course268 0 15
+Course318 1 18
+Course275 4 1
+Course169 4 16
+Course178 3 22
+Course092 2 19
+Course092 3 21
+Course296 0 16
+Course232 3 8
+Course004 1 22
+Course208 0 14
+Course148 4 16
+Course032 1 7
+Course235 1 21
+Course311 0 14
+Course286 4 8
+Course253 2 10
+Course232 0 2
+Course285 0 15
+Course306 0 19
+Course025 3 15
+Course217 0 16
+Course036 1 0
+Course198 0 15
+Course118 0 5
+Course025 1 22
+Course282 1 13
+Course023 2 19
+Course321 1 6
+Course152 4 5
+Course059 0 4
+Course308 0 15
+Course031 0 10
+Course248 3 17
+Course120 2 9
+Course096 0 7
+Course159 4 12
+Course072 4 16
+Course093 4 6
+Course196 2 11
+Course297 1 1
+Course079 1 12
+Course056 1 8
+Course208 3 15
+Course284 2 14
+Course088 4 4
+Course070 2 15
+Course214 1 5
+Course282 4 8
+Course153 3 10
+Course215 2 13
+Course208 4 0
+Course267 4 17
+Course066 1 11
+Course034 0 7
+Course234 0 12
+Course225 3 16
+Course172 4 3
+Course283 3 2
+Course307 1 0
+Course133 1 12
+Course045 1 14
+Course005 4 15
+Course276 4 13
+Course189 4 8
+Course204 3 9
+Course190 3 9
+Course323 2 11
+Course088 3 16
+Course239 3 8
+Course068 1 20
+Course307 4 10
+Course224 2 6
+Course295 2 4
+Course032 1 14
+Course315 1 22
+Course153 4 6
+Course273 3 8
+Course264 4 2
+Course212 4 3
+Course322 1 5
+Course167 1 8
+Course082 4 11
+Course081 3 16
+Course320 4 15
+Course070 3 0
+Course216 3 16
+Course185 1 6
+Course115 4 4
+Course281 3 8
+Course196 4 0
+Course009 4 3
+Course129 1 6
+Course004 2 14
+Course172 2 10
+Course124 3 12
+Course283 4 3
+Course312 3 11
+Course325 3 11
+Course278 3 17
+Course038 3 4
+Course264 2 10
+Course055 1 21
+Course305 2 1
+Course101 1 14
+Course014 1 14
+Course073 1 4
+Course323 2 18
+Course025 2 5
+Course119 1 13
+Course161 3 8
+Course223 0 4
+Course224 1 7
+Course185 3 22
+Course157 4 17
+Course192 3 14
+Course090 4 21
+Course167 0 7
+Course228 3 17
+Course003 4 6
+Course103 3 3
+Course113 2 13
+Course161 1 2
+Course260 2 10
+Course311 4 19
+Course320 4 20
+Course096 1 7
+Course006 4 9
+Course118 4 19
+Course168 0 16
+Course278 4 2
+Course276 1 0
+Course115 2 21
+Course311 3 10
+Course167 3 3
+Course085 0 13
+Course034 2 5
+Course028 3 20
+Course306 3 14
+Course124 1 19
+Course316 1 7
+Course057 3 8
+Course006 3 5
+Course181 1 20
+Course099 1 16
+Course218 2 20
+Course137 1 4
+Course144 4 22
+Course285 3 16
+Course155 0 11
+Course051 3 17
+Course268 3 19
+Course210 3 17
+Course210 4 11
+Course282 1 6
+Course224 3 9
+Course138 1 4
+Course177 2 18
+Course305 0 14
+Course175 2 6
+Course017 4 22
+Course308 0 0
+Course068 3 4
+Course074 2 9
+Course058 0 9
+Course275 4 19
+Course198 4 12
+Course011 1 14
+Course018 2 13
+Course295 3 12
+Course041 1 5
+Course288 2 1
+Course314 3 18
+Course156 0 8
+Course108 0 3
+Course146 0 4
+Course091 2 21
+Course230 4 17
+Course092 0 7
+Course101 4 15
+Course174 1 19
+Course153 3 17
+Course124 0 15
+Course285 0 17
+Course213 4 19
+Course308 4 11
+Course010 4 14
+Course268 2 16
+Course025 0 7
+Course035 3 4
+Course109 4 20
+Course096 4 3
+Course092 4 17
+Course011 4 7
+Course054 0 5
+Course045 1 1
+Course282 0 1
+Course112 0 16
+Course298 1 3
+Course247 3 22
+Course016 4 13
+Course114 0 11
+Course307 0 13
+Course063 1 2
+Course036 3 16
+Course292 3 2
+Course104 3 10
+Course316 0 18
+Course286 0 2
+Course256 1 7
+Course246 2 20
+Course263 1 1
+Course280 1 7
+Course303 1 19
+Course194 3 1
+Course244 3 2
+Course325 0 14
+Course288 1 18
+Course255 4 8
+Course230 4 20
+Course317 0 11
+Course067 2 12
+Course131 1 6
+Course284 0 21
+Course129 4 15
+Course076 2 4
+Course012 2 14
+Course309 2 16
+Course152 3 10
+Course114 3 10
+Course318 3 14
+Course025 2 18
+Course248 2 4
+Course239 2 6
+Course142 2 6
+Course159 2 3
+Course054 2 12
+Course217 2 15
+Course255 3 4
+Course273 3 22
+Course174 4 17
+Course289 1 3
+Course314 0 8
+Course079 0 1
+Course306 4 10
+Course053 3 14
+Course207 4 1
+Course107 4 7
+Course048 0 10
+Course006 4 0
+Course287 1 15
+Course104 2 21
+Course005 1 8
+Course158 2 0
+Course102 0 2
+Course256 3 8
+Course243 3 20
+Course263 3 6
+Course247 3 2
+Course176 2 5
+Course148 4 14
+Course024 0 22
+Course063 4 19
+Course070 0 8
+Course070 1 16
+Course111 1 6
+Course121 0 17
+Course301 0 16
+Course235 1 9
+Course064 2 5
+Course195 3 22
+Course266 0 10
+Course161 2 22
+Course303 4 17
+Course015 0 20
+Course154 0 16
+Course185 2 12
+Course012 0 5
+Course027 3 18
+Course260 2 13
+Course274 4 11
+Course103 3 21
+Course198 0 2
+Course117 4 9
+Course210 0 2
+Course287 2 14
+Course248 4 8
+Course058 3 20
+Course041 0 10
+Course078 1 14
+Course102 1 5
+Course237 3 14
+Course079 2 6
+Course124 1 1
+Course044 0 13
+Course002 1 18
+Course321 0 15
+Course315 2 12
+Course042 1 4
+Course016 1 9
+Course076 0 6
+Course212 2 22
+Course029 1 20
+Course155 0 21
+Course327 3 0
+Course308 4 4
+Course196 2 6
+Course086 4 16
+Course294 3 0
+Course184 2 5
+Course283 2 8
+Course312 1 12
+Course159 0 1
+Course105 1 17
+Course185 1 13
+Course229 4 16
+Course229 1 20
+Course090 0 0
+Course256 4 4
+Course033 3 4
+Course082 1 21
+Course007 2 7
+Course313 3 2
+Course225 0 8
+Course172 0 3
+Course295 3 2
+Course001 0 1
+Course276 2 19
+Course226 1 2
+Course038 1 2
+Course298 1 11
+Course029 1 3
+Course252 0 17
+Course310 2 9
+Course014 0 5
+Course217 0 12
+Course035 2 14
+Course289 2 21
+Course111 0 10
+Course023 2 15
+Course264 3 12
+Course090 3 11
+Course327 1 11
+Course274 2 13
+Course060 4 12
+Course266 1 6
+Course142 2 15
+Course292 0 20
+Course197 2 13
+Course138 0 7
+Course082 4 12
+Course213 3 22
+Course013 3 22
+Course271 0 11
+Course050 1 15
+Course235 3 18
+Course111 4 5
+Course167 4 15
+Course238 2 11
+Course098 1 16
+Course027 3 3
+Course203 0 10
+Course234 1 0
+Course134 0 21
+Course265 2 21
+Course227 4 11
+Course284 4 21
+Course264 2 15
+Course158 1 7
+Course009 1 0
+Course090 0 10
+Course122 2 11
+Course164 2 5
+Course035 3 3
+Course008 1 16
+Course266 1 16
+Course207 0 5
+Course085 0 16
+Course178 0 16
+Course182 0 18
+Course315 3 6
+Course192 3 5
+Course083 0 21
+Course190 0 21
+Course086 0 6
+Course239 1 6
+Course020 1 20
+Course175 3 9
+Course289 4 1
+Course287 1 1
+Course171 4 1
+Course137 0 21
+Course016 4 14
+Course122 1 20
+Course005 2 2
+Course196 3 12
+Course232 3 4
+Course131 2 19
+Course203 0 19
+Course253 0 13
+Course063 4 1
+Course042 1 13
+Course312 2 9
+Course330 0 18
+Course171 3 10
+Course105 4 11
+Course215 2 22
+Course091 0 4
+Course234 2 19
+Course234 3 9
+Course300 0 16
+Course193 1 14
+Course240 1 6
+Course112 1 11
+Course182 1 21
+Course083 1 18
+Course236 4 2
+Course144 2 11
+Course099 0 22
+Course195 4 22
+Course153 2 20
+Course291 4 3
+Course011 1 21
+Course169 4 7
+Course103 1 8
+Course038 4 5
+Course270 1 7
+Course167 1 19
+Course155 4 17
+Course093 0 19
+Course208 3 19
+Course002 1 0
+Course324 2 4
+Course130 0 12
+Course275 2 14
+Course244 3 10
+Course095 1 5
+Course080 0 5
+Course071 1 11
+Course290 3 5
+Course140 1 17
+Course196 4 9
+Course007 1 17
+Course124 2 11
+Course294 3 14
+Course119 4 16
+Course148 4 21
+Course096 4 14
+Course193 2 15
+Course045 1 10
+Course298 1 4
+Course019 0 13
+Course022 0 16
+Course082 1 11
+Course043 4 2
+Course317 1 7
+Course146 4 18
+Course179 2 0
+Course210 1 19
+Course020 2 18
+Course194 1 0
+Course131 3 3
+Course069 3 14
+Course095 3 14
+Course113 2 16
+Course284 1 16
+Course085 4 2
+Course067 3 14
+Course330 2 20
+Course288 0 3
+Course163 4 16
+Course209 1 14
+Course124 3 8
+Course164 0 16
+Course266 2 18
+Course135 3 4
+Course162 4 4
+Course283 4 7
+Course325 3 7
+Course240 3 4
+Course318 4 19
+Course192 0 0
+Course222 3 10
+Course167 2 19
+Course245 2 17
+Course199 1 15
+Course148 2 17
+Course320 0 6
+Course188 4 19
+Course259 0 18
+Course192 3 10
+Course273 2 7
+Course036 4 1
+Course008 0 3
+Course187 1 12
+Course069 0 15
+Course010 1 3
+Course329 2 15
+Course125 3 3
+Course075 2 12
+Course157 1 5
+Course062 3 20
+Course296 0 13
+Course236 0 20
+Course196 3 5
+Course279 3 14
+Course270 0 9
+Course104 2 14
+Course026 3 2
+Course195 3 14
+Course073 4 21
+Course258 1 3
+Course165 1 1
+Course244 1 4
+Course042 1 18
+Course227 4 17
+Course024 1 4
+Course181 3 17
+Course106 0 6
+Course209 3 19
+Course195 2 7
+Course245 2 6
+Course011 4 5
+Course100 3 22
+Course011 2 16
+Course163 2 15
+Course000 0 11
+Course135 0 21
+Course002 2 13
+Course220 4 8
+Course217 1 19
+Course140 4 20
+Course197 0 10
+Course163 1 0
+Course093 0 7
+Course207 0 1
+Course129 3 0
+Course047 3 14
+Course079 2 3
+Course213 1 19
+Course235 2 5
+Course313 1 19
+Course146 0 0
+Course303 2 14
+Course329 4 4
+Course112 3 8
+Course254 0 14
+Course153 2 11
+Course322 4 13
+Course243 1 14
+Course270 2 16
+Course031 4 2
+Course256 4 6
+Course118 3 17
+Course171 1 6
+Course218 0 11
+Course064 0 15
+Course228 2 1
+Course044 3 11
+Course319 3 15
+Course097 0 4
+Course328 3 9
+Course295 1 9
+Course142 4 21
+Course194 4 1
+Course100 0 1
+Course138 1 11
+Course321 4 6
+Course293 4 6
+Course030 0 6
+Course047 3 17
+Course221 4 3
+Course257 1 21
+Course132 4 1
+Course232 4 15
+Course214 2 17
+Course076 1 14
+Course071 0 11
+Course286 4 16
+Course061 0 10
+Course093 2 0
+Course279 0 6
+Course232 2 13
+Course103 4 7
+Course271 4 11
+Course291 2 5
+Course001 1 22
+Course300 1 5
+Course148 0 21
+Course076 2 0
+Course009 0 6
+Course219 2 16
+Course089 1 14
+Course187 2 9
+Course047 1 1
+Course007 3 1
+Course225 1 4
+Course025 2 22
+Course097 2 17
+Course230 0 9
+Course137 1 15
+Course192 3 19
+Course115 0 4
+Course078 3 21
+Course226 3 18
+Course302 3 0
+Course173 1 21
+Course313 4 20
+Course127 1 18
+Course318 1 8
+Course280 0 12
+Course250 0 11
+Course005 1 12
+Course212 1 1
+Course039 0 18
+Course279 0 17
+Course284 1 19
+Course154 0 10
+Course307 0 9
+Course054 1 13
+Course121 0 13
+Course128 0 22
+Course093 4 9
+Course028 4 9
+Course013 0 5
+Course245 2 15
+Course073 1 14
+Course225 2 5
+Course038 3 19
+Course292 1 8
+Course140 1 8
+Course144 1 15
+Course030 2 4
+Course285 4 3
+Course121 4 12
+Course280 3 9
+Course002 2 20
+Course289 4 12
+Course197 0 3
+Course137 0 16
+Course005 2 13
+Course192 4 19
+Course029 4 18
+Course087 3 17
+Course160 3 2
+Course077 0 20
+Course208 0 15
+Course141 2 12
+Course303 2 1
+Course316 1 9
+Course220 0 1
+Course165 1 15
+Course291 0 3
+Course038 0 13
+Course027 0 14
+Course205 4 10
+Course097 4 2
+Course037 2 15
+Course083 4 3
+Course238 4 9
+Course052 4 22
+Course310 2 18
+Course306 0 18
+Course306 1 6
+Course025 3 12
+Course109 4 7
+Course100 3 4
+Course193 1 3
+Course085 2 4
+Course057 1 18
+Course137 2 21
+Course194 1 10
+Course083 1 15
+Course126 3 0
+Course110 4 15
+Course064 1 18
+Course299 3 18
+Course031 0 11
+Course046 0 2
+Course220 4 6
+Course224 3 4
+Course292 3 17
+Course157 3 10
+Course211 2 5
+Course166 1 14
+Course084 4 6
+Course126 0 10
+Course000 3 5
+Course286 0 21
+Course064 4 12
+Course173 3 13
+Course173 0 19
+Course021 0 6
+Course026 1 9
+Course225 4 6
+Course180 3 13
+Course329 4 10
+Course006 2 20
+Course005 0 4
+Course132 2 11
+Course094 3 6
+Course270 2 14
+Course232 2 22
+Course117 2 5
+Course290 0 12
+Course007 1 22
+Course143 3 19
+Course217 3 16
+Course006 1 6
+Course159 1 10
+Course011 4 13
+Course279 4 7
+Course156 4 7
+Course285 2 5
+Course059 3 4
+Course204 2 16
+Course190 3 8
+Course168 0 1
+Course020 3 17
+Course307 4 11
+Course224 2 7
+Course098 0 0
+Course276 3 8
+Course186 1 10
+Course126 1 9
+Course083 4 17
+Course170 4 18
+Course280 0 19
+Course262 0 3
+Course056 2 8
+Course207 4 18
+Course253 2 0
+Course036 4 20
+Course057 0 8
+Course042 3 2
+Course178 4 15
+Course062 4 18
+Course143 2 12
+Course229 2 19
+Course110 3 1
+Course009 4 2
+Course277 2 14
+Course022 4 10
+Course131 0 2
+Course026 3 16
+Course278 3 22
+Course065 4 8
+Course144 3 16
+Course200 1 0
+Course269 0 13
+Course190 2 7
+Course119 1 14
+Course241 1 11
+Course100 2 20
+Course097 1 14
+Course169 1 22
+Course250 3 13
+Course051 2 16
+Course122 2 2
+Course228 3 16
+Course173 1 3
+Course319 2 2
+Course208 2 8
+Course179 0 6
+Course298 4 22
+Course244 2 7
+Course138 3 12
+Course058 2 1
+Course105 1 3
+Course251 2 11
+Course090 3 22
+Course010 2 2
+Course208 0 22
+Course258 1 12
+Course258 2 20
+Course165 1 4
+Course193 1 4
+Course045 4 19
+Course078 4 17
+Course117 1 16
+Course152 4 10
+Course269 1 14
+Course043 2 3
+Course248 4 21
+Course206 3 12
+Course254 1 5
+Course162 0 16
+Course092 4 11
+Course116 3 9
+Course192 2 2
+Course273 1 9
+Course293 1 14
+Course285 4 13
+Course301 4 14
+Course179 1 5
+Course321 2 8
+Course063 0 0
+Course329 1 9
+Course198 4 13
+Course188 2 17
+Course098 2 16
+Course191 3 14
+Course191 0 22
+Course246 2 2
+Course021 3 17
+Course221 4 17
+Course056 1 0
+Course107 2 6
+Course057 1 16
+Course165 4 10
+Course304 4 1
+Course325 1 8
+Course227 2 1
+Course045 4 8
+Course296 2 3
+Course301 3 7
+Course264 0 13
+Course061 3 4
+Course277 4 2
+Course317 3 11
+Course085 3 18
+Course273 0 14
+Course044 2 14
+Course072 1 21
+Course064 0 8
+Course219 3 22
+Course082 1 15
+Course007 3 19
+Course119 0 2
+Course148 1 20
+Course120 3 18
+Course036 2 11
+Course150 1 22
+Course018 0 21
+Course062 2 11
+Course222 4 5
+Course226 0 20
+Course277 0 7
+Course297 0 10
+Course263 1 2
+Course313 4 6
+Course294 4 22
+Course010 1 0
+Course091 4 13
+Course075 3 11
+Course071 0 0
+Course094 0 8
+Course209 1 18
+Course129 1 14
+Course309 4 6
+Course034 1 12
+Course322 0 10
+Course067 1 21
+Course217 3 2
+Course220 2 8
+Course006 1 20
+Course280 1 4
+Course265 0 14
+Course303 3 6
+Course222 3 14
+Course293 3 12
+Course052 3 5
+Course190 2 14
+Course161 2 0
+Course046 2 19
+Course172 2 16
+Course100 1 7
+Course223 0 12
+Course304 1 3
+Course197 2 19
+Course090 4 13
+Course013 4 13
+Course103 0 21
+Course103 3 11
+Course180 4 2
+Course091 4 20
+Course304 2 7
+Course250 0 6
+Course296 0 1
+Course192 4 1
+Course256 3 9
+Course129 0 13
+Course067 2 20
+Course205 2 14
+Course038 2 18
+Course198 2 0
+Course143 0 20
+Course212 2 0
+Course012 3 2
+Course200 1 22
+Course039 1 5
+Course246 4 1
+Course148 3 10
+Course142 3 2
+Course320 0 19
+Course312 1 22
+Course054 3 12
+Course057 1 21
+Course301 4 7
+Course255 2 4
+Course247 3 11
+Course000 0 15
+Course170 3 1
+Course226 2 18
+Course052 1 10
+Course060 2 15
+Course161 1 19
+Course248 1 14
+Course239 1 16
+Course032 4 21
+Course093 3 18
+Course049 3 22
+Course024 4 21
+Course029 1 6
+Course005 2 8
+Course078 0 21
+Course288 2 9
+Course158 4 4
+Course191 3 1
+Course173 4 13
+Course302 0 22
+Course151 4 16
+Course203 1 7
+Course067 3 19
+Course046 4 2
+Course117 3 3
+Course009 3 2
+Course175 1 21
+Course326 4 3
+Course048 2 0
+Course212 3 3
+Course267 4 2
+Course136 4 8
+Course207 3 15
+Course031 4 14
+Course248 4 7
+Course291 3 2
+Course312 1 15
+Course320 2 8
+Course185 1 12
+Course255 1 5
+Course273 0 5
+Course260 1 11
+Course064 0 3
+Course090 2 11
+Course008 3 21
+Course120 2 7
+Course159 4 22
+Course075 1 18
+Course153 2 21
+Course078 1 22
+Course093 4 7
+Course256 1 15
+Course047 0 11
+Course015 4 21
+Course095 0 5
+Course183 0 11
+Course057 4 18
+Course057 1 2
+Course300 4 1
+Course155 0 2
+Course155 1 19
+Course317 0 3
+Course089 4 4
+Course014 4 5
+Course141 4 2
+Course184 3 11
+Course117 4 13
+Course303 4 5
+Course240 3 9
+Course285 2 0
+Course047 4 6
+Course007 3 5
+Course305 3 17
+Course241 0 15
+Course185 1 7
+Course240 0 12
+Course137 1 11
+Course051 2 14
+Course058 1 19
+Course275 2 0
+Course008 1 18
+Course317 4 14
+Course131 4 15
+Course031 2 9
+Course064 0 21
+Course118 0 6
+Course139 0 18
+Course157 0 16
+Course102 0 10
+Course009 4 9
+Course122 1 3
+Course195 1 0
+Course208 1 16
+Course207 3 2
+Course244 1 17
+Course240 3 18
+Course128 3 2
+Course138 4 5
+Course229 3 19
+Course298 2 19
+Course012 3 9
+Course209 2 10
+Course245 2 11
+Course088 2 21
+Course015 1 4
+Course285 4 16
+Course309 0 5
+Course085 1 9
+Course201 2 17
+Course178 0 17
+Course182 0 17
+Course062 0 12
+Course090 2 0
+Course231 1 17
+Course200 4 3
+Course148 2 4
+Course226 3 7
+Course099 1 20
+Course060 2 6
+Course151 3 21
+Course124 4 1
+Course074 0 22
+Course324 4 20
+Course139 0 11
+Course210 2 13
+Course295 4 11
+Course038 3 5
+Course197 0 7
+Course058 2 4
+Course270 0 7
+Course232 3 5
+Course047 2 7
+Course108 0 16
+Course242 0 11
+Course316 1 13
+Course109 3 8
+Course250 2 19
+Course041 4 4
+Course151 0 1
+Course089 3 12
+Course274 0 14
+Course176 0 10
+Course079 0 13
+Course169 0 14
+Course315 4 6
+Course321 2 19
+Course041 3 15
+Course136 0 17
+Course022 1 22
+Course151 0 14
+Course204 0 5
+Course103 2 2
+Course199 2 18
+Course168 3 12
+Course117 4 6
+Course230 3 7
+Course188 2 20
+Course189 1 15
+Course143 4 11
+Course281 1 4
+Course232 2 0
+Course256 1 22
+Course226 1 10
+Course213 0 15
+Course256 1 11
+Course041 3 19
+Course032 1 19
+Course165 0 8
+Course070 2 2
+Course048 2 18
+Course174 2 15
+Course062 3 0
+Course102 1 20
+Course156 3 8
+Course019 4 20
+Course267 4 20
+Course269 1 18
+Course221 1 18
+Course010 4 0
+Course156 0 6
+Course225 3 13
+Course217 0 4
+Course143 4 6
+Course142 0 21
+Course231 3 16
+Course218 0 21
+Course058 4 16
+Course293 0 6
+Course191 4 4
+Course008 3 3
+Course230 0 6
+Course020 3 21
+Course295 3 19
+Course157 3 21
+Course326 2 13
+Course084 4 17
+Course129 3 3
+Course077 2 6
+Course308 2 1
+Course108 2 18
+Course056 2 12
+Course180 4 16
+Course230 4 12
+Course008 2 13
+Course018 4 6
+Course138 3 19
+Course115 4 7
+Course174 1 14
+Course122 0 22
+Course079 4 2
+Course306 2 20
+Course057 3 22
+Course278 3 18
+Course206 0 1
+Course012 2 8
+Course226 4 2
+Course297 4 0
+Course274 3 6
+Course242 4 5
+Course168 1 10
+Course172 2 13
+Course210 2 17
+Course272 0 20
+Course118 1 18
+Course029 1 8
+Course261 1 20
+Course141 2 20
+Course052 0 12
+Course059 1 19
+Course086 0 14
+Course168 2 20
+Course071 1 10
+Course244 2 3
+Course116 2 15
+Course178 3 2
+Course214 3 8
+Course005 1 18
+Course281 0 20
+Course156 2 18
+Course150 4 13
+Course143 0 12
+Course317 1 10
+Course284 0 7
+Course089 4 0
+Course020 4 2
+Course202 2 9
+Course150 4 3
+Course153 1 11
+Course311 0 19
+Course218 3 7
+Course193 1 22
+Course169 1 3
+Course182 0 3
+Course097 0 15
+Course019 1 22
+Course177 2 17
+Course136 0 8
+Course152 4 17
+Course274 4 13
+Course308 3 21
+Course073 2 16
+Course086 0 17
+Course272 4 15
+Course053 2 7
+Course179 0 19
+Course142 4 3
+Course224 3 17
+Course118 4 7
+Course051 2 15
+Course287 2 8
+Course211 3 16
+Course256 0 3
+Course047 3 15
+Course103 1 13
+Course031 4 15
+Course208 0 5
+Course183 0 12
+Course020 4 21
+Course289 1 8
+Course038 0 7
+Course085 4 10
+Course298 4 2
+Course233 0 15
+Course052 3 18
+Course155 1 1
+Course124 2 3
+Course316 4 15
+Course248 4 0
+Course134 1 11
+Course198 1 18
+Course273 0 2
+Course110 4 5
+Course305 0 18
+Course213 4 20
+Course176 1 6
+Course184 1 8
+Course025 4 8
+Course262 3 12
+Course223 2 19
+Course134 4 7
+Course042 4 11
+Course185 4 3
+Course298 1 5
+Course247 1 9
+Course022 0 6
+Course288 2 21
+Course008 2 7
+Course129 2 0
+Course313 4 2
+Course245 4 13
+Course109 2 5
+Course247 4 21
+Course112 2 8
+Course049 2 4
+Course312 4 3
+Course092 0 19
+Course286 4 17
+Course156 3 6
+Course243 1 22
+Course017 0 22
+Course014 4 0
+Course141 4 15
+Course025 1 21
+Course117 1 1
+Course057 4 5
+Course161 2 11
+Course254 3 7
+Course136 3 5
+Course111 0 12
+Course045 2 3
+Course143 1 19
+Course192 0 8
+Course085 0 21
+Course228 1 7
+Course013 1 9
+Course056 4 17
+Course294 1 3
+Course020 2 1
+Course085 0 1
+Course182 3 21
+Course139 2 3
+Course138 0 13
+Course099 0 16
+Course267 2 14
+Course094 4 7
+Course060 3 4
+Course266 4 2
+Course124 4 19
+Course329 2 7
+Course112 1 9
+Course258 2 8
+Course105 1 16
+Course077 1 22
+Course263 3 11
+Course164 1 7
+Course053 4 6
+Course275 0 2
+Course292 4 1
+Course231 2 5
+Course298 2 22
+Course152 2 10
+Course018 3 7
+Course225 2 4
+Course139 4 4
+Course085 1 2
+Course171 0 13
+Course310 4 8
+Course285 4 2
+Course003 4 11
+Course040 0 5
+Course113 3 6
+Course053 2 14
+Course002 2 21
+Course109 0 3
+Course138 2 2
+Course247 0 3
+Course236 2 17
+Course072 4 13
+Course027 1 17
+Course243 3 8
+Course277 1 5
+Course302 0 18
+Course082 4 20
+Course155 4 2
+Course161 4 11
+Course291 0 12
+Course265 1 16
+Course048 2 4
+Course136 4 12
+Course246 4 20
+Course319 4 12
+Course187 4 8
+Course142 0 7
+Course101 0 13
+Course229 1 17
+Course177 3 5
+Course014 0 22
+Course103 2 7
+Course161 0 20
+Course119 3 9
+Course148 1 3
+Course054 4 7
+Course001 0 12
+Course315 1 13
+Course097 3 17
+Course276 3 18
+Course286 1 18
+Course286 0 22
+Course322 0 8
+Course249 0 5
+Course103 1 3
+Course031 3 6
+Course008 4 10
+Course265 3 15
+Course009 2 9
+Course175 1 13
+Course105 3 0
+Course253 3 14
+Course317 3 17
+Course251 3 3
+Course274 1 6
+Course143 2 0
+Course032 3 14
+Course207 2 1
+Course133 1 14
+Course066 1 8
+Course045 1 12
+Course121 1 6
+Course171 2 15
+Course229 2 16
+Course144 2 22
+Course144 3 10
+Course170 1 7
+Course014 0 15
+Course308 1 10
+Course275 3 1
+Course139 2 12
+Course134 4 21
+Course185 4 17
+Course197 2 0
+Course247 2 1
+Course084 3 6
+Course194 1 3
+Course156 2 9
+Course237 1 15
+Course060 1 9
+Course103 0 0
+Course328 0 2
+Course109 1 13
+Course165 3 12
+Course320 4 1
+Course235 2 19
+Course296 3 22
+Course205 2 15
+Course171 3 18
+Course093 2 19
+Course032 0 15
+Course220 3 15
+Course312 3 9
+Course206 0 6
+Course003 3 16
+Course144 4 11
+Course305 2 3
+Course093 3 5
+Course269 0 12
+Course236 0 9
+Course071 2 1
+Course241 1 12
+Course239 2 9
+Course230 1 14
+Course100 1 13
+Course153 0 0
+Course224 1 5
+Course018 1 20
+Course206 3 0
+Course321 2 12
+Course072 2 16
+Course136 1 14
+Course181 4 0
+Course237 0 8
+Course280 3 17
+Course190 1 2
+Course179 0 1
+Course109 0 10
+Course165 2 11
+Course235 2 10
+Course149 3 1
+Course104 2 10
+Course137 3 0
+Course166 0 5
+Course251 2 8
+Course044 4 0
+Course310 0 4
+Course028 3 18
+Course026 2 16
+Course113 0 17
+Course233 0 9
+Course091 3 16
+Course291 1 21
+Course316 4 4
+Course215 3 1
+Course144 4 16
+Course055 0 20
+Course040 3 1
+Course232 0 5
+Course003 2 16
+Course317 2 11
+Course164 2 17
+Course085 3 20
+Course067 0 0
+Course220 3 21
+Course262 4 0
+Course068 3 20
+Course096 3 12
+Course150 3 2
+Course007 0 0
+Course267 0 5
+Course302 4 22
+Course228 0 18
+Course190 0 1
+Course225 0 20
+Course002 2 3
+Course239 0 6
+Course139 1 4
+Course011 1 16
+Course125 2 2
+Course147 3 4
+Course178 2 10
+Course091 3 15
+Course082 4 17
+Course084 4 14
+Course322 0 1
+Course226 1 22
+Course122 3 9
+Course155 4 20
+Course060 1 13
+Course319 0 8
+Course253 3 15
+Course278 1 17
+Course101 4 1
+Course218 4 7
+Course270 2 22
+Course003 2 9
+Course164 3 18
+Course274 1 13
+Course124 2 6
+Course266 2 8
+Course233 1 22
+Course220 2 22
+Course117 1 19
+Course109 4 22
+Course289 2 9
+Course085 3 19
+Course104 0 14
+Course128 2 18
+Course023 2 3
+Course229 1 3
+Course298 1 1
+Course019 0 14
+Course246 2 6
+Course044 1 21
+Course090 3 7
+Course052 2 1
+Course201 2 6
+Course139 2 5
+Course329 0 7
+Course042 4 4
+Course075 0 0
+Course138 1 13
+Course326 2 9
+Course084 4 21
+Course041 2 20
+Course074 3 9
+Course167 1 15
+Course060 0 14
+Course086 1 9
+Course039 1 15
+Course122 0 10
+Course317 0 9
+Course034 1 13
+Course164 0 19
+Course271 4 13
+Course018 0 19
+Course217 3 1
+Course162 3 15
+Course255 0 20
+Course192 0 5
+Course177 1 10
+Course052 3 6
+Course170 4 8
+Course154 4 11
+Course163 3 11
+Course260 3 8
+Course297 2 1
+Course013 4 14
+Course021 1 16
+Course208 2 0
+Course324 4 1
+Course287 1 13
+Course062 4 1
+Course209 4 6
+Course078 0 15
+Course191 2 5
+Course122 1 9
+Course004 1 6
+Course169 4 17
+Course314 1 6
+Course151 4 14
+Course123 2 17
+Course233 0 0
+Course275 0 7
+Course147 4 10
+Course198 2 1
+Course162 3 22
+Course211 3 6
+Course083 4 20
+Course324 3 22
+Course017 3 4
+Course131 2 20
+Course285 3 9
+Course219 0 5
+Course246 4 2
+Course251 1 11
+Course015 1 14
+Course049 4 12
+Course100 2 5
+Course134 2 14
+Course001 3 16
+Course301 4 4
+Course042 3 4
+Course152 4 21
+Course280 3 3
+Course199 2 7
+Course058 2 13
+Course243 3 7
+Course032 4 20
+Course142 4 15
+Course210 0 4
+Course292 2 8
+Course287 1 20
+Course137 0 10
+Course012 4 17
+Course236 1 16
+Course047 2 17
+Course004 0 9
+Course079 2 4
+Course221 3 7
+Course203 1 4
+Course146 0 3
+Course067 4 4
+Course324 1 16
+Course006 3 21
+Course042 1 6
+Course121 3 22
+Course128 0 9
+Course037 2 5
+Course102 2 11
+Course055 0 6
+Course249 4 13
+Course173 4 18
+Course308 4 2
+Course233 2 9
+Course091 1 0
+Course104 0 10
+Course172 4 19
+Course223 1 19
+Course157 0 9
+Course169 0 4
+Course192 1 11
+Course110 4 1
+Course030 3 9
+Course063 4 4
+Course258 4 17
+Course055 2 19
+Course194 4 2
+Course020 3 2
+Course292 3 11
+Course001 0 3
+Course250 2 3
+Course298 4 18
+Course105 0 11
+Course028 2 11
+Course095 0 2
+Course290 4 0
+Course022 3 13
+Course259 1 3
+Course141 0 8
+Course125 1 10
+Course288 1 5
+Course137 2 17
+Course174 1 3
+Course153 3 1
+Course093 2 5
+Course009 3 9
+Course173 4 6
+Course173 4 11
+Course034 1 20
+Course114 4 13
+Course145 4 21
+Course141 4 3
+Course168 4 13
+Course118 3 13
+Course227 4 16
+Course023 3 19
+Course019 3 16
+Course053 4 21
+Course160 4 8
+Course327 1 5
+Course007 3 2
+Course025 2 21
+Course172 3 0
+Course050 4 17
+Course272 0 9
+Course206 4 14
+Course065 0 15
+Course166 2 9
+Course132 4 21
+Course030 1 6
+Course106 4 21
+Course246 1 12
+Course013 4 5
+Course301 1 3
+Course056 3 22
+Course120 4 9
+Course049 2 17
+Course235 3 16
+Course042 2 20
+Course033 0 20
+Course092 2 12
+Course016 3 9
+Course301 2 7
+Course037 4 7
+Course256 3 17
+Course277 3 16
+Course079 4 20
+Course263 3 15
+Course010 2 19
+Course283 4 8
+Course223 4 7
+Course118 2 2
+Course080 2 1
+Course185 0 1
+Course229 3 12
+Course200 1 14
+Course064 2 14
+Course219 1 12
+Course164 2 7
+Course085 3 17
+Course262 4 18
+Course159 2 19
+Course085 0 18
+Course321 2 9
+Course232 4 13
+Course204 1 9
+Course013 3 4
+Course069 0 20
+Course248 0 18
+Course194 2 22
+Course127 4 5
+Course125 3 8
+Course321 0 16
+Course066 4 1
+Course121 4 19
+Course041 0 13
+Course044 4 5
+Course004 1 8
+Course152 1 7
+Course295 1 17
+Course165 1 10
+Course329 4 16
+Course202 2 7
+Course066 0 19
+Course038 0 8
+Course240 2 22
+Course071 2 8
+Course097 4 15
+Course037 2 12
+Course094 2 0
+Course183 3 3
+Course064 2 21
+Course013 4 21
+Course052 4 21
+Course295 4 17
+Course176 0 11
+Course323 4 0
+Course015 0 4
+Course142 0 11
+Course300 0 22
+Course182 0 9
+Course206 1 20
+Course088 2 12
+Course144 2 9
+Course170 2 10
+Course022 1 21
+Course086 3 5
+Course295 3 5
+Course315 0 19
+Course065 3 1
+Course283 4 12
+Course058 3 4
+Course084 4 11
+Course004 0 7
+Course173 0 22
+Course108 1 16
+Course203 2 14
+Course247 2 18
+Course130 0 14
+Course296 2 9
+Course094 3 3
+Course209 0 15
+Course155 1 11
+Course129 4 6
+Course010 4 7
+Course271 2 15
+Course184 2 21
+Course172 4 5
+Course096 4 8
+Course085 2 16
+Course240 4 3
+Course255 1 22
+Course156 4 4
+Course106 2 8
+Course059 3 7
+Course248 2 20
+Course100 0 10
+Course096 1 6
+Course011 0 20
+Course250 2 21
+Course197 2 4
+Course250 2 9
+Course256 4 19
+Course264 4 0
+Course322 1 3
+Course297 1 20
+Course173 0 15
+Course095 3 12
+Course113 1 14
+Course249 3 21
+Course241 4 13
+Course165 3 8
+Course057 0 21
+Course178 4 12
+Course024 2 13
+Course293 4 9
+Course276 0 1
+Course115 4 6
+Course071 0 6
+Course110 3 4
+Course232 2 2
+Course077 1 3
+Course221 1 10
+Course304 2 20
+Course032 0 11
+Course130 2 19
+Course150 1 6
+Course193 3 10
+Course075 4 10
+Course166 4 18
+Course076 2 13
+Course200 1 7
+Course017 3 18
+Course252 2 3
+Course204 2 12
+Course164 2 12
+Course161 2 6
+Course172 2 14
+Course210 2 16
+Course159 2 8
+Course202 4 6
+Course189 2 2
+Course128 4 16
+Course097 1 15
+Course058 1 2
+Course163 3 14
+Course113 0 14
+Course229 1 15
+Course018 4 19
+Course237 0 12
+Course190 1 6
+Course208 2 5
+Course148 0 13
+Course316 2 1
+Course224 4 17
+Course147 1 19
+Course038 3 13
+Course051 1 9
+Course078 0 10
+Course126 1 0
+Course251 3 20
+Course156 1 9
+Course140 0 8
+Course221 3 21
+Course180 2 0
+Course208 1 1
+Course112 3 21
+Course121 3 0
+Course029 3 12
+Course110 1 15
+Course059 2 15
+Course323 4 11
+Course034 2 11
+Course283 1 16
+Course307 2 10
+Course082 2 4
+Course171 0 7
+Course255 2 14
+Course126 3 12
+Course102 4 22
+Course017 4 20
+Course114 1 22
+Course257 3 12
+Course086 3 14
+Course282 4 9
+Course159 4 7
+Course292 2 15
+Course211 2 9
+Course078 0 19
+Course191 3 11
+Course260 4 22
+Course047 2 20
+Course127 3 22
+Course263 2 5
+Course113 0 2
+Course294 4 12
+Course214 0 4
+Course244 0 5
+Course137 4 1
+Course300 4 18
+Course104 0 21
+Course316 4 18
+Course215 2 6
+Course039 2 21
+Course328 4 16
+Course032 2 7
+Course220 2 18
+Course239 4 15
+Course284 1 14
+Course182 1 5
+Course171 1 4
+Course326 1 9
+Course177 0 9
+Course136 3 8
+Course106 2 1
+Course089 0 15
+Course059 3 16
+Course234 0 3
+Course258 4 20
+Course151 2 19
+Course222 2 19
+Course094 2 21
+Course216 4 0
+Course028 2 0
+Course151 2 7
+Course113 1 1
+Course294 4 21
+Course284 2 2
+Course230 4 4
+Course324 3 4
+Course057 1 12
+Course035 3 11
+Course288 1 16
+Course281 2 7
+Course212 0 4
+Course288 4 14
+Course033 4 1
+Course135 1 8
+Course107 0 20
+Course119 4 0
+Course283 3 22
+Course128 3 21
+Course301 1 17
+Course132 1 0
+Course215 4 19
+Course279 4 18
+Course305 2 14
+Course219 2 22
+Course052 2 22
+Course310 4 1
+Course187 2 11
+Course241 0 9
+Course046 2 16
+Course172 2 21
+Course068 2 1
+Course178 0 0
+Course326 3 22
+Course030 2 17
+Course302 3 2
+Course243 4 12
+Course194 3 20
+Course170 1 8
+Course057 0 3
+Course017 1 6
+Course178 4 18
+Course104 1 1
+Course033 3 7
+Course121 4 5
+Course286 3 19
+Course094 1 12
+Course126 4 18
+Course269 3 4
+Course180 1 9
+Course154 0 8
+Course220 1 4
+Course187 2 0
+Course175 0 21
+Course121 0 19
+Course048 3 6
+Course229 3 9
+Course055 1 1
+Course177 1 21
+Course306 0 7
+Course142 3 7
+Course133 3 9
+Course162 0 4
+Course255 2 1
+Course219 3 7
+Course115 1 13
+Course197 3 1
+Course200 4 5
+Course281 4 15
+Course136 0 0
+Course017 4 11
+Course129 4 3
+Course108 3 4
+Course170 3 3
+Course148 0 3
+Course230 2 2
+Course220 4 17
+Course063 2 16
+Course021 3 5
+Course299 4 8
+Course031 3 16
+Course067 3 16
+Course046 4 15
+Course247 3 13
+Course329 0 2
+Course137 4 4
+Course121 3 18
+Course222 2 5
+Course209 3 3
+Course075 1 2
+Course195 3 3
+Course187 4 9
+Course091 1 12
+Course184 2 7
+Course096 3 22
+Course066 3 18
+Course104 4 20
+Course144 1 20
+Course039 4 16
+Course170 2 7
+Course064 0 4
+Course034 4 13
+Course299 2 12
+Course292 3 18
+Course323 3 1
+Course179 1 8
+Course068 1 0
+Course065 3 10
+Course138 1 2
+Course315 1 9
+Course205 0 3
+Course000 3 7
+Course105 0 7
+Course297 1 2
+Course238 0 2
+Course046 4 22
+Course325 1 21
+Course330 2 4
+Course031 2 4
+Course029 1 1
+Course273 4 15
+Course000 4 16
+Course183 2 1
+Course203 2 20
+Course173 4 7
+Course195 0 2
+Course141 4 7
+Course091 0 15
+Course207 2 0
+Course128 2 4
+Course071 4 14
+Course255 0 7
+Course019 0 4
+Course279 4 5
+Course000 3 21
+Course219 2 9
+Course007 3 6
+Course235 0 2
+Course068 0 3
+Course206 4 2
+Course315 1 21
+Course138 0 5
+Course247 2 0
+Course189 0 1
+Course000 2 4
+Course095 3 7
+Course284 2 16
+Course137 2 2
+Course202 0 15
+Course132 2 7
+Course288 0 10
+Course094 0 5
+Course028 0 16
+Course290 1 13
+Course180 1 16
+Course291 2 21
+Course160 2 5
+Course202 3 0
+Course150 4 18
+Course162 3 1
+Course054 1 6
+Course296 4 11
+Course009 1 2
+Course064 2 10
+Course219 1 8
+Course152 2 2
+Course114 3 6
+Course073 0 19
+Course135 0 15
+Course120 2 19
+Course085 1 10
+Course202 1 11
+Course132 4 8
+Course273 2 14
+Course052 0 2
+Course059 1 9
+Course127 1 6
+Course199 2 8
+Course271 3 12
+Course050 3 3
+Course141 2 17
+Course098 2 5
+Course205 3 13
+Course027 0 3
+Course270 0 2
+Course246 3 3
+Course302 0 10
+Course131 1 7
+Course021 3 12
+Course253 1 21
+Course071 1 6
+Course193 4 6
+Course068 4 19
+Course051 4 10
+Course071 1 20
+Course326 4 19
+Course094 2 12
+Course064 2 17
+Course295 0 20
+Course274 0 1
+Course043 2 13
+Course035 4 0
+Course248 4 19
+Course322 3 15
+Course262 4 1
+Course134 2 20
+Course326 4 18
+Course315 4 5
+Course101 0 5
+Course247 4 6
+Course305 0 13
+Course022 2 11
+Course219 3 3
+Course302 4 17
+Course046 1 17
+Course172 0 20
+Course187 4 18
+Course175 4 14
+Course330 4 17
+Course098 3 6
+Course143 4 12
+Course000 3 12
+Course219 0 8
+Course277 1 22
+Course167 1 21
+Course217 4 19
+Course329 3 21
+Course202 1 2
+Course322 1 18
+Course296 2 13
+Course076 0 18
+Course158 3 7
+Course019 3 7
+Course232 1 7
+Course285 1 10
+Course125 0 11
+Course266 2 9
+Course316 4 17
+Course294 3 12
+Course184 2 9
+Course153 0 1
+Course259 3 17
+Course282 0 12
+Course218 0 16
+Course192 1 1
+Course009 0 22
+Course313 3 22
+Course086 2 6
+Course148 2 10
+Course139 3 20
+Course224 2 12
+Course054 4 16
+Course096 3 14
+Course304 0 10
+Course062 2 9
+Course205 0 21
+Course041 2 19
+Course322 1 15
+Course167 1 14
+Course047 0 0
+Course060 0 15
+Course125 0 4
+Course276 0 5
+Course115 4 2
+Course037 4 18
+Course279 0 1
+Course009 4 5
+Course327 2 11
+Course034 1 10
+Course180 0 1
+Course135 3 2
+Course154 1 22
+Course081 0 4
+Course289 3 11
+Course218 1 19
+Course013 1 19
+Course323 2 20
+Course119 1 7
+Course046 2 21
+Course130 4 14
+Course020 2 7
+Course254 0 1
+Course159 2 12
+Course084 1 15
+Course192 3 8
+Course163 3 10
+Course267 2 20
+Course030 1 12
+Course098 1 4
+Course011 3 15
+Course297 0 19
+Course113 2 11
+Course210 1 17
+Course063 2 19
+Course125 3 5
+Course146 4 13
+Course104 2 18
+Course301 2 17
+Course094 1 9
+Course190 3 21
+Course164 1 13
+Course299 4 22
+Course175 4 1
+Course299 3 1
+Course330 0 7
+Course231 2 3
+Course061 2 14
+Course105 4 16
+Course099 2 13
+Course327 3 20
+Course014 4 4
+Course207 1 19
+Course142 3 0
+Course100 2 4
+Course240 1 13
+Course326 0 10
+Course084 2 20
+Course260 2 8
+Course285 4 4
+Course052 0 16
+Course052 1 8
+Course103 3 18
+Course176 4 12
+Course257 3 16
+Course036 1 7
+Course175 4 7
+Course149 3 22
+Course276 1 17
+Course115 2 4
+Course286 1 3
+Course243 3 14
+Course129 3 2
+Course238 0 20
+Course290 3 2
+Course024 2 6
+Course049 0 18
+Course006 2 4
+Course042 0 19
+Course325 1 7
+Course205 4 3
+Course174 2 3
+Course132 3 13
+Course105 3 17
+Course095 4 14
+Course010 4 20
+Course256 1 20
+Course012 4 15
+Course283 2 13
+Course320 2 6
+Course054 0 11
+Course253 0 8
+Course218 0 9
+Course326 1 13
+Course322 4 11
+Course294 0 7
+Course033 0 16
+Course234 4 14
+Course036 2 2
+Course075 0 8
+Course250 2 2
+Course058 0 10
+Course160 0 4
+Course027 0 1
+Course040 1 20
+Course031 2 20
+Course241 4 2
+Course284 2 6
+Course157 0 13
+Course080 0 9
+Course071 0 9
+Course153 3 2
+Course177 4 8
+Course039 0 19
+Course145 4 22
+Course067 1 18
+Course207 2 11
+Course006 1 15
+Course118 3 12
+Course128 2 3
+Course321 0 1
+Course125 1 6
+Course298 2 8
+Course155 2 17
+Course234 1 19
+Course187 2 15
+Course308 1 16
+Course060 4 11
+Course008 2 20
+Course086 2 20
+Course025 2 20
+Course130 4 5
+Course050 4 16
+Course223 0 11
+Course149 0 20
+Course253 0 9
+Course191 1 1
+Course140 3 1
+Course069 3 18
+Course291 1 22
+Course119 2 16
+Course139 0 20
+Course157 0 18
+Course205 2 5
+Course322 2 9
+Course034 2 20
+Course079 4 14
+Course268 0 8
+Course152 2 13
+Course053 4 3
+Course291 1 6
+Course311 0 2
+Course240 3 16
+Course065 4 17
+Course153 1 7
+Course298 2 17
+Course242 1 9
+Course106 0 7
+Course059 2 2
+Course082 2 16
+Course241 1 2
+Course148 3 3
+Course054 1 14
+Course283 1 7
+Course096 2 13
+Course150 0 5
+Course066 3 9
+Course162 0 0
+Course065 1 9
+Course326 3 5
+Course326 0 19
+Course041 2 11
+Course017 4 7
+Course020 1 17
+Course296 0 17
+Course285 0 7
+Course061 1 10
+Course251 2 2
+Course077 0 22
+Course108 0 18
+Course095 1 9
+Course233 2 11
+Course180 2 20
+Course091 2 6
+Course147 4 21
+Course278 1 0
+Course121 3 14
+Course093 4 22
+Course298 4 14
+Course231 3 13
+Course209 3 15
+Course327 0 2
+Course152 1 14
+Course245 3 14
+Course266 3 1
+Course268 2 1
+Course184 1 21
+Course013 0 6
+Course142 0 10
+Course150 2 20
+Course201 3 16
+Course163 1 17
+Course198 1 16
+Course229 0 6
+Course326 1 20
+Course260 1 2
+Course099 1 15
+Course039 2 5
+Course318 0 12
+Course143 4 9
+Course106 3 6
+Course226 1 12
+Course270 1 2
+Course198 0 11
+Course302 1 18
+Course069 2 14
+Course141 1 15
+Course222 1 3
+Course096 2 18
+Course125 0 22
+Course215 1 20
+Course009 3 1
+Course232 1 0
+Course221 1 16
+Course010 4 6
+Course073 2 18
+Course032 3 11
+Course150 2 3
+Course320 3 16
+Course185 0 12
+Course229 1 5
+Course261 1 6
+Course022 1 13
+Course047 4 13
+Course308 1 15
+Course086 2 3
+Course053 0 13
+Course179 2 13
+Course172 3 8
+Course307 4 9
+Course011 3 3
+Course304 0 21
+Course315 2 15
+Course153 4 7
+Course041 2 14
+Course286 0 10
+Course239 3 5
+Course140 3 8
+Course319 1 5
+Course068 1 17
+Course253 2 6
+Course275 2 16
+Course202 0 2
+Course147 1 5
+Course261 4 3
+Course111 4 11
+Course186 3 22
+Course281 3 11
+Course196 4 7
+Course200 2 4
+Course167 4 1
+Course285 1 22
+Course257 4 17
+Course174 2 17
+Course091 3 10
+Course142 1 12
+Course068 4 0
+Course193 3 11
+Course066 0 12
+Course118 2 10
+Course276 4 18
+Course121 0 6
+Course076 2 12
+Course288 4 20
+Course222 0 17
+Course017 3 21
+Course099 2 19
+Course107 3 7
+Course230 1 11
+Course100 1 14
+Course210 3 9
+Course134 3 11
+Course272 0 22
+Course223 2 14
+Course211 0 1
+Course044 3 18
+Course077 2 17
+Course003 4 7
+Course069 0 12
+Course135 4 21
+Course175 4 21
+Course296 0 10
+Course301 2 22
+Course189 3 14
+Course027 0 7
+Course251 2 13
+Course309 4 11
+Course003 1 19
+Course242 0 4
+Course067 3 3
+Course217 2 12
+Course032 1 13
+Course318 4 6
+Course050 2 18
+Course265 1 4
+Course197 4 8
+Course045 3 15
+Course041 4 15
+Course135 1 4
+Course323 4 8
+Course301 3 3
+Course184 1 12
+Course262 4 5
+Course307 2 11
+Course320 1 0
+Course182 0 1
+Course261 1 13
+Course281 4 5
+Course136 0 14
+Course284 4 22
+Course036 2 16
+Course011 1 15
+Course118 4 5
+Course178 2 15
+Course101 3 21
+Course115 2 3
+Course064 4 1
+Course167 2 3
+Course163 4 9
+Course047 3 13
+Course237 2 2
+Course093 0 18
+Course010 3 3
+Course253 0 18
+Course316 0 7
+Course081 2 9
+Course049 1 3
+Course181 0 18
+Course304 4 3
+Course116 0 18
+Course149 4 14
+Course231 4 19
+Course229 4 2
+Course153 3 16
+Course277 4 0
+Course232 1 11
+Course010 4 15
+Course107 1 22
+Course134 1 9
+Course162 2 11
+Course111 3 3
+Course218 0 12
+Course326 1 10
+Course298 0 22
+Course293 0 15
+Course279 3 3
+Course052 1 20
+Course010 2 1
+Course280 2 2
+Course241 3 9
+Course100 0 2
+Course223 2 21
+Course011 0 12
+Course147 2 8
+Course058 0 13
+Course236 1 13
+Course314 2 16
+Course314 1 8
+Course167 1 2
+Course140 2 9
+Course108 1 3
+Course257 1 22
+Course113 1 6
+Course050 0 16
+Course325 0 13
+Course218 4 19
+Course286 4 19
+Course037 4 22
+Course098 2 19
+Course087 2 6
+Course073 2 13
+Course327 2 7
+Course034 1 14
+Course091 0 5
+Course275 1 3
+Course287 4 7
+Course080 3 8
+Course121 1 19
+Course231 3 0
+Course128 3 18
+Course153 0 3
+Course044 1 9
+Course090 3 19
+Course271 4 22
+Course225 1 3
+Course057 4 12
+Course130 4 10
+Course223 3 22
+Course205 1 14
+Course224 1 17
+Course065 0 17
+Course126 2 19
+Course183 4 3
+Course251 0 10
+Course143 1 7
+Course082 4 4
+Course262 1 9
+Course227 0 5
+Course048 0 5
+Course174 0 2
+Course286 2 6
+Course256 3 11
+Course077 1 16
+Course069 4 19
+Course164 1 9
+Course176 2 4
+Course135 3 21
+Course154 0 9
+Course063 4 16
+Course321 0 11
+Course121 0 16
+Course102 1 10
+Course143 0 22
+Course264 2 7
+Course229 3 10
+Course019 2 13
+Course209 2 3
+Course152 2 8
+Course245 2 0
+Course208 4 17
+Course254 0 18
+Course301 4 1
+Course000 0 13
+Course185 3 2
+Course204 0 21
+Course069 1 10
+Course220 4 18
+Course329 1 4
+Course112 0 8
+Course287 2 15
+Course315 0 0
+Course027 1 15
+Course110 2 10
+Course087 0 4
+Course270 1 16
+Course263 0 8
+Course233 0 20
+Course142 3 11
+Course194 1 14
+Course291 0 14
+Course068 3 5
+Course265 2 14
+Course214 0 2
+Course121 3 17
+Course133 0 19
+Course209 3 0
+Course285 0 11
+Course238 4 14
+Course310 2 17
+Course204 4 6
+Course072 0 0
+Course032 2 15
+Course210 2 19
+Course066 3 21
+Course150 2 17
+Course321 1 2
+Course273 1 21
+Course019 0 18
+Course030 3 14
+Course156 4 19
+Course299 2 13
+Course308 0 19
+Course319 3 9
+Course120 2 5
+Course289 0 7
+Course011 0 7
+Course108 4 10
+Course226 1 3
+Course221 4 5
+Course262 0 8
+Course181 0 0
+Course235 3 10
+Course325 1 20
+Course325 0 4
+Course098 4 2
+Course016 2 9
+Course282 4 12
+Course071 0 21
+Course212 3 20
+Course215 2 9
+Course249 4 17
+Course099 4 3
+Course195 0 1
+Course145 4 18
+Course008 0 1
+Course154 1 3
+Course184 3 9
+Course309 2 2
+Course116 1 22
+Course261 3 10
+Course023 2 8
+Course030 4 15
+Course007 3 7
+Course225 1 10
+Course294 0 16
+Course248 2 18
+Course148 2 0
+Course230 0 15
+Course050 4 20
+Course224 2 2
+Course181 4 5
+Course206 4 3
+Course182 3 18
+Course325 4 1
+Course247 2 7
+Course169 4 14
+Course000 1 19
+Course167 0 20
+Course069 3 22
+Course323 1 11
+Course203 3 7
+Course042 3 7
+Course306 3 12
+Course256 2 6
+Course251 3 5
+Course209 1 6
+Course221 1 12
+Course069 4 4
+Course029 2 13
+Course242 0 18
+Course123 2 13
+Course040 1 13
+Course258 1 16
+Course261 4 11
+Course202 3 3
+Course070 0 6
+Course312 3 15
+Course150 4 19
+Course269 0 14
+Course252 2 9
+Course228 0 9
+Course164 2 10
+Course056 4 1
+Course294 1 19
+Course074 4 2
+Course271 0 22
+Course283 1 3
+Course101 3 6
+Course159 2 22
+Course001 2 12
+Course095 3 1
+Course065 1 13
+Course101 1 1
+Course003 1 9
+Course267 3 10
+Course226 3 1
+Course026 0 16
+Course079 2 1
+Course271 3 11
+Course074 1 12
+Course108 0 1
+Course139 1 19
+Course065 2 1
+Course166 0 7
+Course232 3 3
+Course077 0 10
+Course010 3 21
+Course303 3 21
+Course275 3 10
+Course244 0 20
+Course197 4 15
+Course061 2 0
+Course215 3 3
+Course285 0 4
+Course106 1 20
+Course274 0 0
+Course176 1 20
+Course043 3 20
+Course217 1 5
+Course300 0 17
+Course092 4 12
+Course174 4 4
+Course045 0 6
+Course112 2 22
+Course194 1 11
+Course326 1 22
+Course136 0 19
+Course274 4 22
+Course145 2 20
+Course103 2 0
+Course323 3 9
+Course225 0 22
+Course143 2 22
+Course015 4 15
+Course020 0 22
+Course020 3 14
+Course169 4 6
+Course054 4 14
+Course166 1 4
+Course251 1 7
+Course160 3 19
+Course028 3 9
+Course056 1 15
+Course253 3 13
+Course181 0 15
+Course014 1 0
+Course330 2 12
+Course016 2 18
+Course097 4 19
+Course158 3 6
+Course279 1 13
+Course267 4 22
+Course245 0 11
+Course117 1 17
+Course162 1 22
+Course011 4 3
+Course240 0 4
+Course222 1 22
+Course029 2 21
+Course156 4 1
+Course089 0 5
+Course013 2 19
+Course043 4 3
+Course074 3 10
+Course063 1 14
+Course018 0 18
+Course315 2 11
+Course051 3 21
+Course186 1 4
+Course251 1 16
+Course314 1 3
+Course209 4 5
+Course047 0 7
+Course131 3 2
+Course245 4 6
+Course180 4 22
+Course230 4 14
+Course316 3 1
+Course057 0 18
+Course062 4 20
+Course186 2 6
+Course105 2 8
+Course087 2 13
+Course167 4 5
+Course320 3 19
+Course263 2 1
+Course034 1 11
+Course274 1 22
+Course176 3 22
+Course221 1 22
+Course291 2 13
+Course220 0 11
+Course111 0 5
+Course121 0 2
+Course076 2 8
+Course185 0 15
+Course091 4 8
+Course029 3 22
+Course216 0 21
+Course252 2 6
+Course228 0 16
+Course187 2 17
+Course154 4 9
+Course248 2 0
+Course148 2 18
+Course309 1 10
+Course063 2 15
+Course210 3 13
+Course193 0 19
+Course237 4 9
+Course000 1 13
+Course173 1 13
+Course060 3 13
+Course257 0 14
+Course056 3 1
+Course194 2 2
+Course068 3 19
+Course275 4 15
+Course075 3 21
+Course214 3 22
+Course137 3 9
+Course058 2 11
+Course322 2 19
+Course082 1 1
+Course181 1 17
+Course312 2 7
+Course012 3 5
+Course151 0 17
+Course239 2 7
+Course268 3 20
+Course268 2 12
+Course086 4 5
+Course035 4 8
+Course139 4 13
+Course307 2 15
+Course223 1 6
+Course118 1 9
+Course315 4 13
+Course320 0 10
+
+ROOM_CONSTRAINTS:
+
+END.

@@ -1,0 +1,66 @@
+Name: Random_20Events_Occupancy70_1545252375881
+Courses: 8
+Rooms: 1
+Days: 5
+Periods_per_day: 5
+Curricula: 9
+Min_Max_Daily_Lectures: 0 5
+UnavailabilityConstraints: 27
+RoomConstraints: 0
+
+COURSES:
+Course001 t00 3 2 93 0
+Course002 t01 2 1 46 0
+Course003 t02 4 3 133 0
+Course004 t00 3 2 121 0
+Course005 t00 2 1 207 0
+Course006 t01 2 1 160 0
+Course007 t01 3 2 126 0
+Course008 t02 1 0 80 0
+
+ROOMS:
+R01 220 0
+
+CURRICULA:
+Curr001 2 Course004 Course008
+Curr002 3 Course006 Course003 Course007
+Curr003 5 Course006 Course002 Course003 Course005 Course007
+Curr004 3 Course001 Course004 Course008
+Curr005 4 Course006 Course003 Course005 Course007
+Curr006 3 Course003 Course005 Course007
+Curr007 5 Course006 Course002 Course003 Course005 Course007
+Curr008 3 Course001 Course004 Course008
+Curr009 5 Course006 Course002 Course003 Course005 Course007
+
+UNAVAILABILITY_CONSTRAINTS:
+Course001 1 3
+Course001 1 4
+Course002 0 0
+Course002 0 1
+Course002 0 2
+Course003 1 0
+Course003 1 1
+Course003 1 4
+Course003 3 0
+Course003 4 0
+Course003 4 1
+Course003 4 2
+Course003 4 3
+Course004 2 0
+Course004 2 1
+Course004 2 2
+Course004 2 3
+Course004 2 4
+Course006 4 1
+Course006 4 2
+Course006 4 3
+Course006 4 4
+Course007 4 4
+Course008 1 0
+Course008 1 1
+Course008 1 2
+Course008 1 3
+
+ROOM_CONSTRAINTS:
+
+END.

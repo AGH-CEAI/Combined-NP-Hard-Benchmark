@@ -1,0 +1,82 @@
+Name: pca_2019-07-31_08-33-06_easy_asp_126_seed_10
+Courses: 39
+Rooms: 5
+Days: 5
+Periods_per_day: 4
+Curricula: 11
+Min_Max_Daily_Lectures: 0 4
+UnavailabilityConstraints: 6
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 2 1 117 0
+Course001 t01 3 2 132 0
+Course002 t02 4 4 153 0
+Course003 t03 4 4 215 0
+Course004 t04 2 2 138 0
+Course005 t05 3 2 87 0
+Course006 t06 3 1 104 0
+Course007 t07 2 2 162 0
+Course008 t08 2 1 178 0
+Course009 t09 2 1 134 0
+Course010 t10 3 1 166 0
+Course011 t11 3 1 132 0
+Course012 t12 4 1 138 0
+Course013 t13 4 3 161 0
+Course014 t14 2 2 102 0
+Course015 t15 3 3 91 0
+Course016 t16 2 2 220 0
+Course017 t17 4 4 200 0
+Course018 t18 4 2 200 0
+Course019 t19 2 1 100 0
+Course020 t20 4 2 214 0
+Course021 t00 4 2 143 0
+Course022 t00 4 1 229 0
+Course023 t01 4 1 185 0
+Course024 t01 4 4 221 0
+Course025 t02 4 3 221 0
+Course026 t02 3 3 188 0
+Course027 t03 4 4 138 0
+Course028 t03 4 4 172 0
+Course029 t04 2 2 159 0
+Course030 t04 1 1 185 0
+Course031 t05 1 1 138 0
+Course032 t05 1 1 172 0
+Course033 t06 1 1 198 0
+Course034 t06 1 1 187 0
+Course035 t07 1 1 147 0
+Course036 t07 1 1 169 0
+Course037 t08 1 1 183 0
+Course038 t08 1 1 173 0
+
+ROOMS:
+R01 214 0
+R02 216 0
+R03 222 0
+R04 230 0
+R05 247 0
+
+CURRICULA:
+Curr001 3 Course018 Course020 Course029
+Curr002 4 Course008 Course020 Course023 Course032
+Curr003 6 Course000 Course001 Course005 Course006 Course034 Course035
+Curr004 7 Course003 Course004 Course013 Course014 Course027 Course028 Course038
+Curr005 3 Course002 Course009 Course025
+Curr006 4 Course009 Course019 Course027 Course030
+Curr007 4 Course009 Course012 Course017 Course034
+Curr008 7 Course007 Course012 Course015 Course022 Course030 Course034 Course036
+Curr009 4 Course018 Course026 Course030 Course037
+Curr010 5 Course005 Course018 Course024 Course028 Course036
+Curr011 4 Course008 Course021 Course025 Course033
+
+UNAVAILABILITY_CONSTRAINTS:
+Course002 3 2
+Course035 0 2
+Course036 0 2
+Course036 1 0
+Course002 2 3
+Course006 2 0
+
+ROOM_CONSTRAINTS:
+
+END.

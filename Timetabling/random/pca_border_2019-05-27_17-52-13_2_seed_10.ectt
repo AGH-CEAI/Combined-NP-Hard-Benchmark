@@ -1,0 +1,73 @@
+Name: pca_border_2019-05-27_17-52-13_2_seed_10
+Courses: 10
+Rooms: 3
+Days: 5
+Periods_per_day: 5
+Curricula: 7
+Min_Max_Daily_Lectures: 0 5
+UnavailabilityConstraints: 32
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 1 1 77 0
+Course001 t01 4 1 101 0
+Course002 t02 3 3 130 0
+Course003 t03 4 4 104 0
+Course004 t00 4 4 115 0
+Course005 t01 1 1 94 0
+Course006 t02 1 1 118 0
+Course007 t03 1 1 120 0
+Course008 t00 3 2 137 0
+Course009 t01 4 4 120 0
+
+ROOMS:
+R01 138 0
+R02 147 0
+R03 165 0
+
+CURRICULA:
+Curr001 3 Course001 Course002 Course007
+Curr002 3 Course001 Course004 Course007
+Curr003 4 Course000 Course006 Course007 Course008
+Curr004 2 Course001 Course008
+Curr005 4 Course001 Course002 Course006 Course007
+Curr006 3 Course000 Course001 Course005
+Curr007 3 Course000 Course006 Course008
+
+UNAVAILABILITY_CONSTRAINTS:
+Course001 3 3
+Course004 0 0
+Course003 0 2
+Course008 3 4
+Course000 2 4
+Course009 3 4
+Course007 1 2
+Course001 3 1
+Course005 1 0
+Course002 1 2
+Course008 0 2
+Course004 1 0
+Course001 1 4
+Course009 4 4
+Course003 2 3
+Course003 1 1
+Course000 0 2
+Course000 3 0
+Course002 0 2
+Course007 3 3
+Course005 4 0
+Course004 2 3
+Course008 1 2
+Course003 4 0
+Course009 3 2
+Course007 2 2
+Course002 4 3
+Course004 2 4
+Course007 2 0
+Course006 0 3
+Course008 4 4
+Course005 2 2
+
+ROOM_CONSTRAINTS:
+
+END.

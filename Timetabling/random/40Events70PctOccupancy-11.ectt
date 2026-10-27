@@ -1,0 +1,93 @@
+Name: Random_40Events_Occupancy70_1545252413262
+Courses: 14
+Rooms: 2
+Days: 5
+Periods_per_day: 5
+Curricula: 16
+Min_Max_Daily_Lectures: 0 5
+UnavailabilityConstraints: 40
+RoomConstraints: 0
+
+COURSES:
+Course001 t00 2 1 39 0
+Course002 t01 2 1 52 0
+Course003 t02 4 3 30 0
+Course004 t03 4 3 44 0
+Course005 t04 2 1 45 0
+Course006 t05 2 1 55 0
+Course007 t00 3 2 36 0
+Course008 t00 2 1 30 0
+Course009 t01 4 3 47 0
+Course010 t01 2 1 38 0
+Course011 t02 4 3 58 0
+Course012 t02 4 3 44 0
+Course013 t03 3 2 64 0
+Course014 t03 2 1 38 0
+
+ROOMS:
+R01 65 0
+R02 295 0
+
+CURRICULA:
+Curr001 3 Course012 Course003 Course006
+Curr002 6 Course004 Course008 Course013 Course011 Course002 Course009
+Curr003 6 Course010 Course012 Course009 Course003 Course006 Course014
+Curr004 6 Course010 Course012 Course007 Course009 Course003 Course006
+Curr005 5 Course005 Course012 Course007 Course001 Course003
+Curr006 3 Course004 Course011 Course013
+Curr007 6 Course004 Course008 Course013 Course011 Course002 Course009
+Curr008 4 Course004 Course011 Course013 Course002
+Curr009 4 Course010 Course012 Course002 Course003
+Curr010 4 Course004 Course013 Course002 Course009
+Curr011 5 Course010 Course008 Course013 Course002 Course009
+Curr012 6 Course010 Course005 Course012 Course007 Course001 Course014
+Curr013 4 Course005 Course012 Course007 Course003
+Curr014 2 Course010 Course013
+Curr015 2 Course010 Course008
+Curr016 2 Course004 Course013
+
+UNAVAILABILITY_CONSTRAINTS:
+Course001 4 3
+Course001 4 4
+Course002 4 0
+Course002 4 1
+Course002 4 2
+Course002 4 3
+Course002 4 4
+Course003 0 1
+Course003 0 2
+Course003 0 3
+Course003 0 4
+Course003 2 0
+Course003 2 1
+Course003 2 2
+Course003 2 3
+Course003 2 4
+Course004 0 3
+Course004 0 4
+Course004 2 0
+Course004 2 1
+Course004 2 2
+Course004 2 3
+Course005 2 4
+Course007 4 4
+Course008 1 0
+Course008 1 1
+Course008 1 2
+Course008 1 3
+Course008 3 3
+Course008 3 4
+Course009 1 0
+Course009 1 1
+Course009 1 2
+Course009 2 4
+Course009 4 0
+Course009 4 1
+Course010 4 4
+Course014 3 2
+Course014 3 3
+Course014 3 4
+
+ROOM_CONSTRAINTS:
+
+END.

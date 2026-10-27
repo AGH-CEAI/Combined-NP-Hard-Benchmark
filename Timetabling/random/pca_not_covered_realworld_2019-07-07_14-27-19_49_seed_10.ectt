@@ -1,0 +1,80 @@
+Name: pca_not_covered_realworld_2019-07-07_14-27-19_49_seed_10
+Courses: 10
+Rooms: 2
+Days: 5
+Periods_per_day: 5
+Curricula: 3
+Min_Max_Daily_Lectures: 0 5
+UnavailabilityConstraints: 44
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 4 4 262 0
+Course001 t01 1 1 265 0
+Course002 t02 1 1 225 0
+Course003 t03 3 1 196 0
+Course004 t00 4 1 199 0
+Course005 t01 4 2 194 0
+Course006 t02 1 1 255 0
+Course007 t03 1 1 177 0
+Course008 t00 1 1 283 0
+Course009 t01 1 1 210 0
+
+ROOMS:
+R01 284 0
+R02 297 0
+
+CURRICULA:
+Curr001 2 Course002 Course003
+Curr002 3 Course003 Course007 Course008
+Curr003 2 Course007 Course009
+
+UNAVAILABILITY_CONSTRAINTS:
+Course000 1 1
+Course000 2 4
+Course004 4 3
+Course000 0 3
+Course005 1 4
+Course003 3 1
+Course002 3 0
+Course008 0 2
+Course001 2 4
+Course009 2 2
+Course002 3 2
+Course009 2 3
+Course000 2 3
+Course000 4 2
+Course003 1 1
+Course005 4 4
+Course004 4 4
+Course005 3 1
+Course009 4 3
+Course007 3 1
+Course003 2 0
+Course004 1 4
+Course009 0 4
+Course000 3 0
+Course009 4 1
+Course006 0 4
+Course007 4 3
+Course005 0 4
+Course000 0 0
+Course008 3 0
+Course002 0 2
+Course007 1 4
+Course001 4 2
+Course006 0 1
+Course006 4 0
+Course009 3 1
+Course001 4 3
+Course002 2 1
+Course006 0 0
+Course004 3 3
+Course006 0 3
+Course007 2 3
+Course004 0 1
+Course004 3 1
+
+ROOM_CONSTRAINTS:
+
+END.

@@ -1,0 +1,77 @@
+c DESCRIPTION: Quasi-random coloring problem
+c CODE SOURCE: Joseph Culberson (joe@cs.ualberta.ca)
+c Specifications: 
+c   Random seed: 312900
+c   No hidden coloring
+c   Probability: 0.414793
+c   Weighted Graph
+c   Initial weight = 233818
+c   Alpha:  add 80734.000000
+c   Gamma:  add -225810.000000
+c   Degree Information:
+c   Min:1 Avg:1.070175 Max:2 Std:0.255442
+c No verification required.
+c Creation Date: Fri Jun 24 10:19:16 2011
+p edge 114 61
+c no cheat
+e 9 7
+e 23 10
+e 26 21
+e 27 22
+e 31 3
+e 36 33
+e 36 35
+e 39 29
+e 40 15
+e 43 13
+e 44 25
+e 45 38
+e 47 20
+e 49 18
+e 52 5
+e 58 39
+e 60 57
+e 61 24
+e 63 28
+e 64 32
+e 65 6
+e 68 37
+e 69 62
+e 71 53
+e 72 42
+e 73 70
+e 74 4
+e 75 55
+e 76 30
+e 77 47
+e 78 2
+e 79 19
+e 80 51
+e 81 8
+e 81 12
+e 83 59
+e 85 17
+e 86 50
+e 86 82
+e 88 56
+e 90 41
+e 92 1
+e 95 14
+e 97 16
+e 98 66
+e 99 91
+e 100 84
+e 101 94
+e 102 48
+e 103 62
+e 104 95
+e 105 46
+e 106 84
+e 107 54
+e 108 11
+e 109 34
+e 110 96
+e 111 67
+e 112 93
+e 113 89
+e 114 87

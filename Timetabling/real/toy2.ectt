@@ -1,0 +1,27 @@
+Name: Toy
+Courses: 2
+Rooms: 2
+Days: 3
+Periods_per_day: 2
+Curricula: 1
+Min_Max_Daily_Lectures: 1 2
+UnavailabilityConstraints: 1
+RoomConstraints: 0
+
+COURSES:
+SceCosC Ocra 3 3 50 1
+ArcTec Indaco 3 3 30 0
+
+ROOMS:
+rA 32 1
+rB 50 1
+
+CURRICULA:
+Cur1 2 SceCosC ArcTec 
+
+UNAVAILABILITY_CONSTRAINTS:
+ArcTec 1 0 
+
+ROOM_CONSTRAINTS:
+
+END.

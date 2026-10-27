@@ -1,0 +1,20 @@
+c DESCRIPTION: Quasi-random coloring problem
+c CODE SOURCE: Joseph Culberson (joe@cs.ualberta.ca)
+c Specifications: 
+c   Random seed: 713352
+c   No hidden coloring
+c   Geometric graph
+c   Dimension = 10
+c   Edge if dist <= 0.418694
+c   No wrapping
+c   No gnuplot
+c   Degree Information:
+c   Min:0 Avg:0.041451 Max:1 Std:0.199330
+c No verification required.
+c Creation Date: Thu Jun 23 18:19:35 2011
+p edge 193 4
+c no cheat
+e 53 18
+e 80 66
+e 100 37
+e 145 99

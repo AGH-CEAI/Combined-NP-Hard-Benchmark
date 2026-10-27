@@ -1,0 +1,82 @@
+Name: pca_2019-07-31_08-33-06_easy_asp_72_seed_10
+Courses: 21
+Rooms: 4
+Days: 5
+Periods_per_day: 7
+Curricula: 18
+Min_Max_Daily_Lectures: 0 7
+UnavailabilityConstraints: 18
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 4 4 120 0
+Course001 t01 5 4 80 0
+Course002 t02 3 2 119 0
+Course003 t03 3 1 140 0
+Course004 t04 4 3 130 0
+Course005 t05 5 5 175 0
+Course006 t06 5 5 189 0
+Course007 t07 7 1 155 0
+Course008 t08 5 1 196 0
+Course009 t09 3 3 110 0
+Course010 t10 6 1 191 0
+Course011 t11 2 1 152 0
+Course012 t12 5 1 162 0
+Course013 t13 4 4 186 0
+Course014 t00 4 1 84 0
+Course015 t01 5 2 187 0
+Course016 t02 4 1 120 0
+Course017 t03 8 3 101 0
+Course018 t04 5 4 138 0
+Course019 t05 4 2 120 0
+Course020 t06 3 1 135 0
+
+ROOMS:
+R01 199 0
+R02 205 0
+R03 219 0
+R04 229 0
+
+CURRICULA:
+Curr001 2 Course004 Course008
+Curr002 2 Course006 Course012
+Curr003 2 Course015 Course019
+Curr004 2 Course002 Course009
+Curr005 2 Course004 Course013
+Curr006 2 Course011 Course020
+Curr007 2 Course000 Course018
+Curr008 2 Course005 Course009
+Curr009 2 Course003 Course020
+Curr010 2 Course002 Course019
+Curr011 2 Course008 Course019
+Curr012 2 Course006 Course008
+Curr013 2 Course006 Course008
+Curr014 2 Course001 Course020
+Curr015 2 Course010 Course020
+Curr016 2 Course013 Course017
+Curr017 2 Course008 Course019
+Curr018 2 Course007 Course019
+
+UNAVAILABILITY_CONSTRAINTS:
+Course012 3 5
+Course018 4 5
+Course007 4 4
+Course009 3 5
+Course010 3 4
+Course020 1 1
+Course013 1 0
+Course005 4 3
+Course015 2 5
+Course004 2 0
+Course020 4 5
+Course017 3 1
+Course019 1 1
+Course014 3 1
+Course002 0 1
+Course012 0 5
+Course010 4 0
+Course004 3 1
+
+ROOM_CONSTRAINTS:
+
+END.

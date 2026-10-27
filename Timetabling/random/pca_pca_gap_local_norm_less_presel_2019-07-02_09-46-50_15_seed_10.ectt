@@ -1,0 +1,64 @@
+Name: pca_pca_gap_local_norm_less_presel_2019-07-02_09-46-50_15_seed_10
+Courses: 9
+Rooms: 2
+Days: 5
+Periods_per_day: 5
+Curricula: 6
+Min_Max_Daily_Lectures: 0 5
+UnavailabilityConstraints: 26
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 2 2 225 0
+Course001 t01 1 1 184 0
+Course002 t02 1 1 237 0
+Course003 t03 3 2 255 0
+Course004 t00 3 3 209 0
+Course005 t01 1 1 221 0
+Course006 t02 2 2 248 0
+Course007 t03 2 2 247 0
+Course008 t00 2 1 238 0
+
+ROOMS:
+R01 268 0
+R02 277 0
+
+CURRICULA:
+Curr001 2 Course001 Course006
+Curr002 2 Course001 Course003
+Curr003 2 Course004 Course008
+Curr004 2 Course004 Course005
+Curr005 3 Course001 Course004 Course006
+Curr006 4 Course004 Course005 Course006 Course008
+
+UNAVAILABILITY_CONSTRAINTS:
+Course003 3 4
+Course005 1 1
+Course006 0 0
+Course006 1 0
+Course008 0 1
+Course000 2 3
+Course008 0 0
+Course007 4 0
+Course002 0 0
+Course006 3 0
+Course000 1 4
+Course006 4 0
+Course007 4 3
+Course004 2 3
+Course006 3 3
+Course002 2 3
+Course007 2 2
+Course008 1 2
+Course007 3 4
+Course006 0 1
+Course006 0 4
+Course007 1 2
+Course001 4 1
+Course006 1 4
+Course003 0 1
+Course001 0 2
+
+ROOM_CONSTRAINTS:
+
+END.

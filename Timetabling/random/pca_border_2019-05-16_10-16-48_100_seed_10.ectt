@@ -1,0 +1,117 @@
+Name: pca_border_2019-05-16_10-16-48_100_seed_10
+Courses: 20
+Rooms: 4
+Days: 5
+Periods_per_day: 5
+Curricula: 5
+Min_Max_Daily_Lectures: 0 5
+UnavailabilityConstraints: 67
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 3 2 232 0
+Course001 t01 2 2 76 0
+Course002 t02 3 3 74 0
+Course003 t03 3 2 217 0
+Course004 t04 4 1 121 0
+Course005 t05 2 1 100 0
+Course006 t06 4 1 193 0
+Course007 t07 3 2 194 0
+Course008 t00 2 1 242 0
+Course009 t00 1 1 173 0
+Course010 t01 4 3 268 0
+Course011 t01 4 1 73 0
+Course012 t02 2 2 246 0
+Course013 t02 3 1 95 0
+Course014 t03 1 1 190 0
+Course015 t03 3 1 241 0
+Course016 t04 2 2 266 0
+Course017 t04 4 3 208 0
+Course018 t05 3 2 67 0
+Course019 t05 2 2 107 0
+
+ROOMS:
+R01 190 0
+R02 196 0
+R03 275 0
+R04 315 0
+
+CURRICULA:
+Curr001 2 Course004 Course014
+Curr002 4 Course004 Course005 Course010 Course014
+Curr003 3 Course003 Course010 Course015
+Curr004 2 Course003 Course005
+Curr005 4 Course007 Course009 Course013 Course017
+
+UNAVAILABILITY_CONSTRAINTS:
+Course001 3 3
+Course008 2 3
+Course018 0 4
+Course012 4 2
+Course002 0 0
+Course001 0 1
+Course010 3 0
+Course008 4 1
+Course010 1 2
+Course008 4 0
+Course006 1 0
+Course008 3 2
+Course015 1 2
+Course014 0 4
+Course015 2 3
+Course015 1 3
+Course016 4 2
+Course015 2 2
+Course010 1 3
+Course013 3 2
+Course009 2 3
+Course005 1 4
+Course000 3 4
+Course002 0 3
+Course016 1 2
+Course010 1 1
+Course017 0 2
+Course011 1 4
+Course013 0 1
+Course016 0 2
+Course006 3 4
+Course003 1 2
+Course013 0 0
+Course004 1 4
+Course014 4 1
+Course009 4 0
+Course010 4 0
+Course016 0 0
+Course011 1 3
+Course009 4 1
+Course012 2 2
+Course014 3 4
+Course007 4 3
+Course009 0 2
+Course000 0 0
+Course004 2 3
+Course003 4 0
+Course014 3 0
+Course007 3 4
+Course003 4 1
+Course014 3 3
+Course017 2 0
+Course004 0 4
+Course009 3 1
+Course010 0 1
+Course012 0 2
+Course001 1 3
+Course014 2 4
+Course016 3 4
+Course008 4 3
+Course003 4 4
+Course010 0 3
+Course006 1 4
+Course012 0 4
+Course017 4 0
+Course003 0 1
+Course010 0 4
+
+ROOM_CONSTRAINTS:
+
+END.

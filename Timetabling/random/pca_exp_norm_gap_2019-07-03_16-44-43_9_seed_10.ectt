@@ -1,0 +1,283 @@
+Name: pca_exp_norm_gap_2019-07-03_16-44-43_9_seed_10
+Courses: 38
+Rooms: 5
+Days: 6
+Periods_per_day: 6
+Curricula: 58
+Min_Max_Daily_Lectures: 0 6
+UnavailabilityConstraints: 161
+RoomConstraints: 0
+
+COURSES:
+Course000 t00 4 2 103 0
+Course001 t01 4 1 118 0
+Course002 t02 3 2 130 0
+Course003 t03 3 1 48 0
+Course004 t04 3 1 101 0
+Course005 t05 2 1 120 0
+Course006 t06 2 1 48 0
+Course007 t07 2 2 98 0
+Course008 t08 3 2 121 0
+Course009 t09 3 3 121 0
+Course010 t10 3 3 59 0
+Course011 t11 3 1 91 0
+Course012 t12 2 1 87 0
+Course013 t13 5 5 109 0
+Course014 t14 4 3 63 0
+Course015 t15 2 1 55 0
+Course016 t00 4 3 126 0
+Course017 t00 4 3 65 0
+Course018 t00 3 3 77 0
+Course019 t01 2 2 100 0
+Course020 t01 4 1 112 0
+Course021 t01 4 4 45 0
+Course022 t02 5 4 96 0
+Course023 t02 5 5 94 0
+Course024 t02 3 3 124 0
+Course025 t03 3 3 78 0
+Course026 t03 3 1 93 0
+Course027 t03 4 2 80 0
+Course028 t04 2 1 61 0
+Course029 t04 3 3 65 0
+Course030 t04 1 1 130 0
+Course031 t05 1 1 58 0
+Course032 t05 1 1 119 0
+Course033 t05 1 1 60 0
+Course034 t06 1 1 50 0
+Course035 t06 1 1 77 0
+Course036 t06 1 1 62 0
+Course037 t07 1 1 95 0
+
+ROOMS:
+R01 98 0
+R02 104 0
+R03 119 0
+R04 138 0
+R05 160 0
+
+CURRICULA:
+Curr001 4 Course016 Course023 Course025 Course032
+Curr002 4 Course007 Course010 Course011 Course019
+Curr003 3 Course009 Course017 Course034
+Curr004 4 Course012 Course014 Course020 Course021
+Curr005 5 Course011 Course014 Course017 Course020 Course022
+Curr006 3 Course018 Course031 Course036
+Curr007 4 Course004 Course013 Course015 Course018
+Curr008 5 Course005 Course009 Course018 Course029 Course037
+Curr009 5 Course003 Course022 Course023 Course026 Course032
+Curr010 4 Course018 Course022 Course032 Course034
+Curr011 3 Course005 Course011 Course037
+Curr012 6 Course000 Course006 Course007 Course021 Course024 Course026
+Curr013 3 Course010 Course022 Course028
+Curr014 4 Course001 Course018 Course020 Course029
+Curr015 5 Course005 Course016 Course017 Course024 Course036
+Curr016 2 Course009 Course034
+Curr017 4 Course005 Course007 Course031 Course035
+Curr018 5 Course008 Course019 Course026 Course028 Course032
+Curr019 3 Course005 Course006 Course015
+Curr020 2 Course005 Course027
+Curr021 5 Course002 Course008 Course009 Course020 Course024
+Curr022 3 Course007 Course026 Course027
+Curr023 3 Course001 Course015 Course026
+Curr024 6 Course006 Course008 Course015 Course017 Course022 Course036
+Curr025 3 Course016 Course027 Course031
+Curr026 4 Course018 Course019 Course020 Course023
+Curr027 4 Course003 Course020 Course028 Course030
+Curr028 3 Course016 Course029 Course032
+Curr029 3 Course013 Course017 Course026
+Curr030 2 Course001 Course032
+Curr031 5 Course003 Course015 Course023 Course033 Course035
+Curr032 5 Course004 Course010 Course018 Course025 Course028
+Curr033 3 Course022 Course028 Course031
+Curr034 4 Course004 Course008 Course011 Course018
+Curr035 2 Course007 Course030
+Curr036 4 Course006 Course009 Course032 Course035
+Curr037 5 Course009 Course011 Course014 Course024 Course032
+Curr038 2 Course010 Course028
+Curr039 4 Course001 Course025 Course033 Course037
+Curr040 2 Course010 Course017
+Curr041 2 Course014 Course030
+Curr042 3 Course016 Course017 Course026
+Curr043 6 Course005 Course013 Course020 Course025 Course028 Course037
+Curr044 3 Course003 Course015 Course023
+Curr045 6 Course003 Course020 Course027 Course028 Course031 Course033
+Curr046 3 Course029 Course034 Course037
+Curr047 5 Course007 Course008 Course018 Course024 Course034
+Curr048 6 Course001 Course002 Course021 Course022 Course030 Course031
+Curr049 4 Course019 Course030 Course031 Course032
+Curr050 2 Course009 Course036
+Curr051 5 Course002 Course010 Course012 Course023 Course032
+Curr052 4 Course003 Course004 Course021 Course029
+Curr053 6 Course003 Course010 Course012 Course025 Course026 Course037
+Curr054 4 Course004 Course019 Course026 Course035
+Curr055 6 Course001 Course003 Course006 Course010 Course023 Course026
+Curr056 4 Course003 Course010 Course012 Course016
+Curr057 5 Course008 Course009 Course018 Course023 Course033
+Curr058 5 Course011 Course020 Course025 Course033 Course034
+
+UNAVAILABILITY_CONSTRAINTS:
+Course016 1 5
+Course018 1 2
+Course029 3 4
+Course025 0 2
+Course006 2 3
+Course017 3 0
+Course032 3 1
+Course023 2 0
+Course037 1 5
+Course021 1 2
+Course008 2 5
+Course000 2 1
+Course027 1 4
+Course037 2 3
+Course008 3 0
+Course003 2 4
+Course024 0 4
+Course005 1 4
+Course020 0 5
+Course013 3 3
+Course007 5 4
+Course028 3 4
+Course001 2 0
+Course020 5 4
+Course026 2 4
+Course018 1 1
+Course028 2 5
+Course016 4 5
+Course028 4 1
+Course007 2 3
+Course018 3 1
+Course004 2 2
+Course027 2 5
+Course037 0 4
+Course023 0 1
+Course012 1 4
+Course028 1 1
+Course010 0 2
+Course014 2 2
+Course001 0 5
+Course006 5 0
+Course005 2 3
+Course003 1 4
+Course034 4 0
+Course030 0 5
+Course037 5 0
+Course032 3 5
+Course037 0 2
+Course031 1 0
+Course019 1 5
+Course022 0 3
+Course003 5 3
+Course034 2 2
+Course003 3 3
+Course022 3 1
+Course005 5 0
+Course020 4 1
+Course009 5 2
+Course019 1 1
+Course005 3 2
+Course011 5 0
+Course032 3 3
+Course017 1 0
+Course034 0 2
+Course022 0 4
+Course037 3 5
+Course006 4 1
+Course019 4 2
+Course034 3 2
+Course028 0 2
+Course014 5 5
+Course027 3 5
+Course005 0 4
+Course008 1 0
+Course029 3 3
+Course009 3 3
+Course031 3 3
+Course036 3 0
+Course036 4 2
+Course006 4 5
+Course004 0 4
+Course015 3 2
+Course000 5 1
+Course009 0 1
+Course024 1 0
+Course013 1 1
+Course037 3 3
+Course037 0 1
+Course003 0 0
+Course007 0 1
+Course033 1 3
+Course031 5 1
+Course035 3 2
+Course019 0 0
+Course001 4 4
+Course037 1 4
+Course004 3 4
+Course015 1 1
+Course037 1 2
+Course026 2 1
+Course021 2 1
+Course020 0 2
+Course017 5 1
+Course014 5 0
+Course035 3 5
+Course023 5 5
+Course007 0 3
+Course021 1 5
+Course002 0 0
+Course001 5 1
+Course014 0 2
+Course014 0 0
+Course005 4 2
+Course029 4 1
+Course008 5 3
+Course010 5 1
+Course004 2 3
+Course026 1 2
+Course027 5 5
+Course028 2 2
+Course030 2 3
+Course010 5 5
+Course035 2 3
+Course031 0 1
+Course001 0 1
+Course008 4 4
+Course012 4 4
+Course035 2 5
+Course026 1 0
+Course021 3 2
+Course010 0 5
+Course037 5 3
+Course016 5 3
+Course008 4 0
+Course022 0 2
+Course013 2 5
+Course028 0 5
+Course032 5 4
+Course001 3 4
+Course009 5 5
+Course034 3 5
+Course022 5 0
+Course032 5 2
+Course008 1 5
+Course020 4 2
+Course015 3 4
+Course020 2 0
+Course035 1 2
+Course022 5 4
+Course031 1 2
+Course036 3 1
+Course011 5 5
+Course001 5 3
+Course019 0 5
+Course024 1 3
+Course036 3 3
+Course003 0 1
+Course017 3 4
+Course000 0 4
+Course033 4 0
+Course015 3 5
+
+ROOM_CONSTRAINTS:
+
+END.
